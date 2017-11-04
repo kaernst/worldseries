@@ -23,7 +23,8 @@ total_wins = as.data.frame(team)
 
 for (i in c(1:30)) {
   total_wins[i, "wins"] = length(mlbdata$winner[mlbdata$winner == total_wins[i, "team"]])
-  total_wins[i, "home_wins"] = length(mlbdata$winner[mlbdata$team2 == total_wins[i, "team"] & mlbdata$winner == total_wins[i, "team"]])
+  total_wins[i, "home_wins"] = length(mlbdata$winner[mlbdata$team2 == total_wins[i, "team"] &
+                                                       mlbdata$winner == total_wins[i, "team"]])
 }
 total_wins["win_pct"] = total_wins["wins"]/162
 total_wins["home_win_pct"] = total_wins["home_wins"]/81
@@ -78,9 +79,13 @@ dimnames(runs_per_total_transition) <- list (team, team)
 
 for (i in 1:length(mlbdata$team1)) {
   runs_per_total_transition[mlbdata$team1[i],
-                            mlbdata$team2[i]] = runs_scored[mlbdata$team1[i],mlbdata$team2[i]] / (runs_scored[mlbdata$team1[i], mlbdata$team2[i]] + runs_scored[mlbdata$team2[i],mlbdata$team1[i]])
+                            mlbdata$team2[i]] = runs_scored[mlbdata$team1[i],mlbdata$team2[i]] / 
+    (runs_scored[mlbdata$team1[i], mlbdata$team2[i]] + 
+       runs_scored[mlbdata$team2[i],mlbdata$team1[i]])
   runs_per_total_transition[mlbdata$team2[i],
-                            mlbdata$team1[i]] = runs_scored[mlbdata$team2[i],mlbdata$team1[i]] / (runs_scored[mlbdata$team1[i], mlbdata$team2[i]] + runs_scored[mlbdata$team2[i],mlbdata$team1[i]])
+                            mlbdata$team1[i]] = runs_scored[mlbdata$team2[i],mlbdata$team1[i]] /
+    (runs_scored[mlbdata$team1[i], mlbdata$team2[i]] +
+       runs_scored[mlbdata$team2[i],mlbdata$team1[i]])
 }
 
 ## Teams in different leagues do not play each other.
