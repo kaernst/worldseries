@@ -1,0 +1,2431 @@
+month;date;team1;runs1;team2;runs2
+April;2;Yankees;3;Rays;7
+April;2;Giants;5;D-backs;6
+April;2;Cubs;3;Cardinals;4
+April;3;Marlins;2;Nationals;4
+April;3;Braves;0;Mets;6
+April;3;Pirates;3;Red Sox;5
+April;3;Rockies;7;Brewers;5
+April;3;Blue Jays;2;Orioles;3
+April;3;Royals;1;Twins;7
+April;3;Phillies;4;Reds;3
+April;3;Padres;3;Dodgers;14
+April;3;Indians;8;Rangers;5
+April;3;Mariners;0;Astros;3
+April;3;Angels;2;Athletics;4
+April;4;Tigers;6;White Sox;3
+April;4;Yankees;5;Rays;0
+April;4;Rockies;6;Brewers;5
+April;4;Indians;4;Rangers;3
+April;4;Mariners;1;Astros;2
+April;4;Cubs;2;Cardinals;1
+April;4;Giants;8;D-backs;4
+April;4;Angels;7;Athletics;6
+April;4;Padres;4;Dodgers;0
+April;5;Royals;1;Twins;9
+April;5;Marlins;4;Nationals;6
+April;5;Blue Jays;1;Orioles;3
+April;5;Braves;3;Mets;1
+April;5;Yankees;1;Rays;4
+April;5;Phillies;0;Reds;2
+April;5;Pirates;0;Red Sox;3
+April;5;Indians;9;Rangers;6
+April;5;Rockies;1;Brewers;6
+April;5;Mariners;3;Astros;5
+April;5;Giants;6;D-backs;8
+April;5;Angels;5;Athletics;0
+April;5;Padres;1;Dodgers;3
+April;6;Phillies;4;Reds;7
+April;6;Royals;3;Twins;5
+April;6;Rockies;2;Brewers;1
+April;6;Cubs;6;Cardinals;4
+April;6;Tigers;2;White Sox;11
+April;6;Padres;2;Dodgers;10
+April;6;Angels;1;Athletics;5
+April;6;Marlins;4;Nationals;3
+April;6;Braves;2;Mets;6
+April;6;Blue Jays;5;Rays;2
+April;6;Mariners;4;Astros;2
+April;6;Giants;3;D-backs;9
+April;7;Braves;4;Pirates;5
+April;7;Red Sox;5;Tigers;6
+April;7;Nationals;7;Phillies;6
+April;7;Dodgers;1;Rockies;2
+April;7;Giants;6;Padres;7
+April;7;Yankees;5;Orioles;6
+April;7;Marlins;7;Mets;2
+April;7;Blue Jays;8;Rays;10
+April;7;Athletics;5;Rangers;10
+April;7;Cubs;1;Brewers;2
+April;7;Royals;5;Astros;1
+April;7;Twins;3;White Sox;1
+April;7;Reds;2;Cardinals;0
+April;7;Indians;3;D-backs;7
+April;7;Mariners;1;Angels;5
+April;8;Red Sox;1;Tigers;4
+April;8;Twins;2;White Sox;6
+April;8;Reds;4;Cardinals;10
+April;8;Yankees;4;Orioles;5
+April;8;Blue Jays;2;Rays;3
+April;8;Braves;4;Pirates;6
+April;8;Nationals;3;Phillies;17
+April;8;Cubs;11;Brewers;6
+April;8;Royals;7;Astros;3
+April;8;Marlins;8;Mets;1
+April;8;Athletics;6;Rangers;1
+April;8;Indians;2;D-backs;11
+April;8;Dodgers;2;Rockies;4
+April;8;Giants;1;Padres;2
+April;8;Mariners;4;Angels;5
+April;9;Red Sox;7;Tigers;5
+April;9;Blue Jays;2;Rays;7
+April;9;Braves;5;Pirates;6
+April;9;Yankees;7;Orioles;3
+April;9;Nationals;3;Phillies;4
+April;9;Cubs;7;Brewers;4
+April;9;Royals;4;Astros;5
+April;9;Twins;4;White Sox;1
+April;9;Reds;8;Cardinals;0
+April;9;Athletics;1;Rangers;8
+April;9;Dodgers;10;Rockies;6
+April;9;Mariners;9;Angels;10
+April;9;Indians;2;D-backs;3
+April;9;Giants;5;Padres;3
+April;9;Marlins;2;Mets;5
+April;10;Rays;1;Yankees;8
+April;10;Red Sox;1;Tigers;2
+April;10;Athletics;2;Royals;0
+April;10;D-backs;1;Giants;4
+April;10;Astros;0;Mariners;6
+April;10;Reds;7;Pirates;1
+April;10;Mets;4;Phillies;3
+April;10;Cardinals;6;Nationals;14
+April;10;Dodgers;2;Cubs;3
+April;10;Padres;5;Rockies;3
+April;11;Twins;1;Tigers;2
+April;11;White Sox;1;Indians;2
+April;11;Reds;6;Pirates;2
+April;11;Mets;14;Phillies;4
+April;11;Cardinals;3;Nationals;8
+April;11;Brewers;4;Blue Jays;3
+April;11;Braves;4;Marlins;8
+April;11;Orioles;1;Red Sox;8
+April;11;Padres;2;Rockies;3
+April;11;Rangers;5;Angels;6
+April;11;Astros;7;Mariners;5
+April;11;D-backs;4;Giants;3
+April;12;Rays;4;Yankees;8
+April;12;Twins;3;Tigers;5
+April;12;Padres;6;Rockies;0
+April;12;Cardinals;6;Nationals;1
+April;12;White Sox;2;Indians;1
+April;12;Reds;9;Pirates;2
+April;12;Mets;5;Phillies;4
+April;12;Brewers;2;Blue Jays;0
+April;12;Braves;5;Marlins;4
+April;12;Orioles;12;Red Sox;5
+April;12;Dodgers;2;Cubs;0
+April;12;Athletics;8;Royals;3
+April;12;Rangers;8;Angels;3
+April;12;Astros;10;Mariners;5
+April;12;D-backs;2;Giants;6
+April;13;Twins;11;Tigers;5
+April;13;Pirates;3;Red Sox;4
+April;13;Dodgers;0;Cubs;4
+April;13;Rangers;8;Angels;3
+April;13;White Sox;10;Indians;4
+April;13;Rays;2;Yankees;3
+April;13;Orioles;2;Blue Jays;1
+April;13;Brewers;5;Reds;1
+April;13;Mets;9;Marlins;8
+April;13;Athletics;1;Royals;3
+April;13;Rockies;3;Giants;1
+April;14;Pirates;4;Cubs;2
+April;14;Phillies;2;Nationals;3
+April;14;Cardinals;3;Yankees;4
+April;14;Orioles;6;Blue Jays;4
+April;14;Tigers;7;Indians;6
+April;14;Brewers;10;Reds;4
+April;14;Mets;2;Marlins;3
+April;14;Rays;10;Red Sox;5
+April;14;Padres;2;Braves;5
+April;14;White Sox;2;Twins;1
+April;14;Angels;1;Royals;7
+April;14;Astros;7;Athletics;2
+April;14;D-backs;1;Dodgers;7
+April;14;Rangers;1;Mariners;2
+April;14;Rockies;2;Giants;8
+April;15;Phillies;4;Nationals;2
+April;15;Cardinals;2;Yankees;3
+April;15;Orioles;1;Blue Jays;2
+April;15;Brewers;5;Reds;7
+April;15;White Sox;0;Twins;6
+April;15;Pirates;8;Cubs;7
+April;15;Rockies;5;Giants;0
+April;15;Astros;10;Athletics;6
+April;15;Rays;1;Red Sox;2
+April;15;Tigers;6;Indians;13
+April;15;Mets;4;Marlins;5
+April;15;Padres;2;Braves;4
+April;15;Angels;2;Royals;3
+April;15;D-backs;4;Dodgers;8
+April;15;Rangers;0;Mariners;5
+April;16;Orioles;11;Blue Jays;4
+April;16;Tigers;4;Indians;1
+April;16;Brewers;4;Reds;2
+April;16;Mets;2;Marlins;4
+April;16;Phillies;4;Nationals;6
+April;16;Padres;2;Braves;9
+April;16;Rays;5;Red Sox;7
+April;16;Angels;0;Royals;1
+April;16;Pirates;6;Cubs;1
+April;16;Rockies;4;Giants;3
+April;16;D-backs;3;Dodgers;1
+April;16;White Sox;3;Twins;1
+April;16;Rangers;7;Mariners;8
+April;16;Cardinals;3;Yankees;9
+April;17;Rays;3;Red Sox;4
+April;17;White Sox;4;Yankees;7
+April;17;Pirates;1;Cardinals;2
+April;17;Padres;4;Braves;5
+April;17;Brewers;6;Cubs;3
+April;17;Indians;3;Twins;1
+April;17;Angels;0;Astros;3
+April;17;Rangers;7;Athletics;0
+April;17;D-backs;4;Dodgers;2
+April;17;Marlins;1;Mariners;6
+April;18;White Sox;4;Yankees;1
+April;18;Red Sox;8;Blue Jays;7
+April;18;Orioles;3;Reds;9
+April;18;Tigers;1;Rays;5
+April;18;Phillies;6;Mets;2
+April;18;Nationals;3;Braves;1
+April;18;Brewers;7;Cubs;9
+April;18;Indians;11;Twins;4
+April;18;Angels;5;Astros;2
+April;18;Pirates;1;Cardinals;2
+April;18;Giants;2;Royals;1
+April;18;Rangers;2;Athletics;4
+April;18;D-backs;11;Padres;2
+April;18;Rockies;4;Dodgers;3
+April;18;Marlins;5;Mariners;0
+April;19;Pirates;1;Cardinals;2
+April;19;Brewers;4;Cubs;7
+April;19;Rangers;1;Athletics;9
+April;19;Marlins;5;Mariners;10
+April;19;White Sox;1;Yankees;9
+April;19;Red Sox;0;Blue Jays;3
+April;19;Orioles;2;Reds;0
+April;19;Tigers;7;Rays;8
+April;19;Phillies;4;Mets;5
+April;19;Nationals;14;Braves;4
+April;19;Angels;1;Astros;5
+April;19;Giants;0;Royals;2
+April;19;D-backs;0;Padres;1
+April;19;Rockies;2;Dodgers;4
+April;20;Red Sox;4;Blue Jays;1
+April;20;Indians;6;Twins;2
+April;20;Tigers;1;Rays;8
+April;20;Angels;1;Astros;2
+April;20;Orioles;2;Reds;1
+April;20;Phillies;6;Mets;4
+April;20;Nationals;3;Braves;2
+April;20;Royals;0;Rangers;1
+April;20;Cardinals;5;Brewers;7
+April;20;D-backs;1;Padres;4
+April;20;Mariners;6;Athletics;9
+April;21;Braves;3;Phillies;4
+April;21;Red Sox;0;Orioles;2
+April;21;Yankees;3;Pirates;6
+April;21;Cubs;6;Reds;5
+April;21;Astros;6;Rays;3
+April;21;Nationals;4;Mets;3
+April;21;Royals;2;Rangers;6
+April;21;Indians;3;White Sox;0
+April;21;Tigers;3;Twins;6
+April;21;Cardinals;6;Brewers;3
+April;21;Giants;5;Rockies;6
+April;21;Dodgers;5;D-backs;13
+April;21;Mariners;1;Athletics;3
+April;21;Blue Jays;8;Angels;7
+April;21;Marlins;3;Padres;5
+April;22;Cubs;12;Reds;8
+April;22;Tigers;5;Twins;4
+April;22;Yankees;11;Pirates;5
+April;22;Mariners;3;Athletics;4
+April;22;Nationals;3;Mets;1
+April;22;Astros;3;Rays;6
+April;22;Braves;3;Phillies;4
+April;22;Red Sox;2;Orioles;4
+April;22;Indians;7;White Sox;0
+April;22;Cardinals;4;Brewers;1
+April;22;Royals;1;Rangers;2
+April;22;Dodgers;5;D-backs;11
+April;22;Giants;3;Rockies;12
+April;22;Marlins;6;Padres;3
+April;22;Blue Jays;4;Angels;5
+April;23;Cubs;5;Reds;7
+April;23;Astros;6;Rays;4
+April;23;Braves;2;Phillies;5
+April;23;Red Sox;6;Orioles;2
+April;23;Yankees;1;Pirates;2
+April;23;Indians;2;White Sox;6
+April;23;Tigers;13;Twins;4
+April;23;Cardinals;6;Brewers;4
+April;23;Royals;2;Rangers;5
+April;23;Giants;0;Rockies;8
+April;23;Blue Jays;6;Angels;2
+April;23;Mariners;11;Athletics;1
+April;23;Dodgers;6;D-backs;2
+April;23;Marlins;7;Padres;3
+April;23;Nationals;6;Mets;3
+April;24;Cubs;14;Pirates;3
+April;24;Rays;3;Orioles;6
+April;24;Reds;7;Brewers;11
+April;24;Twins;3;Rangers;2
+April;24;Royals;1;White Sox;12
+April;24;Nationals;4;Rockies;8
+April;24;Padres;6;D-backs;7
+April;24;Blue Jays;1;Angels;2
+April;24;Dodgers;1;Giants;2
+April;25;Astros;4;Indians;2
+April;25;Cubs;1;Pirates;0
+April;25;Rays;2;Orioles;0
+April;25;Mariners;9;Tigers;19
+April;25;Reds;1;Brewers;9
+April;25;Twins;8;Rangers;1
+April;25;Royals;5;White Sox;10
+April;25;Blue Jays;6;Cardinals;5
+April;25;Nationals;15;Rockies;12
+April;25;Padres;3;D-backs;9
+April;25;Athletics;1;Angels;2
+April;25;Dodgers;2;Giants;1
+April;26;Reds;4;Brewers;9
+April;26;Royals;2;White Sox;5
+April;26;Astros;6;Indians;7
+April;26;Cubs;5;Pirates;6
+April;26;Marlins;4;Phillies;7
+April;26;Rays;4;Orioles;5
+April;26;Braves;8;Mets;2
+April;26;Yankees;3;Red Sox;1
+April;26;Mariners;8;Tigers;0
+April;26;Twins;3;Rangers;14
+April;26;Nationals;11;Rockies;4
+April;26;Padres;8;D-backs;5
+April;26;Athletics;5;Angels;8
+April;26;Dodgers;3;Giants;4
+April;27;Marlins;2;Phillies;3
+April;27;Braves;7;Mets;5
+April;27;Mariners;2;Tigers;1
+April;27;Blue Jays;4;Cardinals;8
+April;27;Blue Jays;4;Cardinals;6
+April;27;Nationals;16;Rockies;5
+April;27;Dodgers;5;Giants;1
+April;27;Astros;3;Indians;4
+April;27;Yankees;3;Red Sox;0
+April;27;Padres;2;D-backs;6
+April;27;Athletics;1;Angels;2
+April;28;Orioles;11;Yankees;14
+April;28;Mets;7;Nationals;5
+April;28;Rays;7;Blue Jays;4
+April;28;Cubs;4;Red Sox;5
+April;28;White Sox;7;Tigers;3
+April;28;Pirates;12;Marlins;2
+April;28;Mariners;3;Indians;1
+April;28;Angels;6;Rangers;3
+April;28;Braves;10;Brewers;8
+April;28;Athletics;4;Astros;9
+April;28;Reds;5;Cardinals;7
+April;28;Twins;6;Royals;4
+April;28;Rockies;3;D-backs;1
+April;28;Phillies;3;Dodgers;5
+April;28;Padres;3;Giants;4
+April;29;Orioles;4;Yankees;12
+April;29;Mets;5;Nationals;3
+April;29;Rays;1;Blue Jays;4
+April;29;White Sox;6;Tigers;4
+April;29;Cubs;7;Red Sox;4
+April;29;Mariners;3;Indians;4
+April;29;Braves;11;Brewers;3
+April;29;Athletics;2;Astros;1
+April;29;Pirates;4;Marlins;0
+April;29;Angels;3;Rangers;6
+April;29;Rockies;7;D-backs;6
+April;29;Padres;12;Giants;4
+April;29;Phillies;5;Dodgers;6
+April;30;Orioles;7;Yankees;4
+April;30;Rays;1;Blue Jays;3
+April;30;White Sox;3;Tigers;7
+April;30;Pirates;3;Marlins;10
+April;30;Mariners;4;Indians;12
+April;30;Mets;5;Nationals;23
+April;30;Braves;3;Brewers;4
+April;30;Athletics;2;Astros;7
+April;30;Reds;5;Cardinals;4
+April;30;Twins;7;Royals;5
+April;30;Angels;5;Rangers;2
+April;30;Padres;5;Giants;2
+April;30;Rockies;0;D-backs;2
+April;30;Phillies;3;Dodgers;5
+April;30;Cubs;2;Red Sox;6
+May;1;Blue Jays;7;Yankees;1
+May;1;Orioles;5;Red Sox;2
+May;1;Indians;1;Tigers;7
+May;1;Pirates;3;Reds;4
+May;1;Rays;4;Marlins;2
+May;1;Mets;7;Braves;5
+May;1;Phillies;10;Cubs;2
+May;1;Rangers;2;Astros;6
+May;1;White Sox;1;Royals;6
+May;1;Brewers;7;Cardinals;5
+May;1;Giants;4;Dodgers;3
+May;2;D-backs;6;Nationals;3
+May;2;Blue Jays;5;Yankees;11
+May;2;Orioles;2;Red Sox;5
+May;2;Indians;2;Tigers;5
+May;2;Pirates;12;Reds;3
+May;2;Rays;3;Marlins;1
+May;2;Mets;7;Braves;9
+May;2;Phillies;3;Cubs;8
+May;2;Athletics;1;Twins;9
+May;2;Rangers;7;Astros;8
+May;2;White Sox;6;Royals;0
+May;2;Brewers;1;Cardinals;2
+May;2;Rockies;2;Padres;6
+May;2;Angels;6;Mariners;4
+May;2;Giants;5;Dodgers;13
+May;3;D-backs;1;Nationals;2
+May;3;Blue Jays;6;Yankees;8
+May;3;Orioles;2;Red Sox;4
+May;3;Indians;3;Tigers;2
+May;3;Marlins;10;Rays;6
+May;3;Pirates;2;Reds;7
+May;3;Mets;16;Braves;5
+May;3;Phillies;4;Cubs;5
+May;3;Athletics;4;Twins;7
+May;3;Rangers;1;Astros;10
+May;3;White Sox;1;Royals;6
+May;3;Rockies;11;Padres;3
+May;3;Angels;7;Mariners;8
+May;3;Giants;4;Dodgers;1
+May;4;Pirates;2;Reds;4
+May;4;D-backs;2;Nationals;4
+May;4;Athletics;8;Twins;5
+May;4;Rangers;10;Astros;4
+May;4;White Sox;8;Royals;3
+May;4;Phillies;4;Cubs;5
+May;4;Rockies;3;Padres;2
+May;4;Orioles;8;Red Sox;3
+May;4;Marlins;1;Rays;5
+May;4;Brewers;5;Cardinals;4
+May;4;Angels;3;Mariners;11
+May;5;Yankees;3;Cubs;2
+May;5;Giants;3;Reds;13
+May;5;White Sox;2;Orioles;4
+May;5;Brewers;0;Pirates;4
+May;5;Nationals;4;Phillies;2
+May;5;Marlins;7;Mets;8
+May;5;Blue Jays;8;Rays;4
+May;5;Cardinals;10;Braves;0
+May;5;Red Sox;3;Twins;4
+May;5;Indians;1;Royals;3
+May;5;D-backs;6;Rockies;3
+May;5;Tigers;7;Athletics;2
+May;5;Astros;7;Angels;6
+May;5;Dodgers;8;Padres;2
+May;5;Rangers;3;Mariners;1
+May;6;Red Sox;11;Twins;1
+May;6;Blue Jays;1;Rays;6
+May;6;Indians;3;Royals;1
+May;6;White Sox;5;Orioles;6
+May;6;Brewers;1;Pirates;2
+May;6;Nationals;6;Phillies;2
+May;6;Marlins;3;Mets;11
+May;6;Giants;2;Reds;14
+May;6;Cardinals;5;Braves;3
+May;6;Yankees;11;Cubs;6
+May;6;D-backs;1;Rockies;9
+May;6;Dodgers;10;Padres;2
+May;6;Tigers;5;Athletics;6
+May;6;Astros;1;Angels;2
+May;6;Rangers;2;Mariners;8
+May;7;Marlins;7;Mets;0
+May;7;Blue Jays;2;Rays;1
+May;7;White Sox;0;Orioles;4
+May;7;Brewers;6;Pirates;2
+May;7;Cardinals;6;Braves;4
+May;7;Red Sox;17;Twins;6
+May;7;Indians;1;Royals;0
+May;7;Nationals;5;Phillies;6
+May;7;D-backs;2;Rockies;5
+May;7;Astros;5;Angels;3
+May;7;Tigers;6;Athletics;8
+May;7;Giants;0;Reds;4
+May;7;Rangers;3;Mariners;4
+May;7;Yankees;5;Cubs;4
+May;8;Nationals;4;Orioles;6
+May;8;Indians;2;Blue Jays;4
+May;8;Royals;7;Rays;3
+May;8;Yankees;10;Reds;4
+May;8;Giants;3;Mets;4
+May;8;Cardinals;9;Marlins;4
+May;8;Angels;2;Athletics;3
+May;8;Pirates;1;Dodgers;12
+May;8;Rangers;1;Padres;5
+May;9;Cubs;4;Rockies;10
+May;9;Cubs;8;Rockies;1
+May;9;Rangers;11;Padres;0
+May;9;Mariners;10;Phillies;9
+May;9;Nationals;4;Orioles;5
+May;9;Indians;6;Blue Jays;0
+May;9;Royals;7;Rays;6
+May;9;Yankees;3;Reds;5
+May;9;Giants;1;Mets;6
+May;9;Cardinals;6;Marlins;5
+May;9;Red Sox;7;Brewers;11
+May;9;Braves;3;Astros;8
+May;9;Twins;7;White Sox;2
+May;9;Tigers;7;D-backs;3
+May;9;Angels;7;Athletics;3
+May;9;Pirates;3;Dodgers;4
+May;10;Mariners;11;Phillies;6
+May;10;Giants;6;Mets;5
+May;10;Braves;2;Astros;4
+May;10;Cubs;0;Rockies;3
+May;10;Angels;1;Athletics;3
+May;10;Orioles;6;Nationals;7
+May;10;Indians;7;Blue Jays;8
+May;10;Royals;1;Rays;12
+May;10;Cardinals;7;Marlins;5
+May;10;Padres;3;Rangers;4
+May;10;Red Sox;4;Brewers;7
+May;10;Tigers;1;D-backs;7
+May;10;Pirates;2;Dodgers;5
+May;11;Red Sox;4;Brewers;1
+May;11;Royals;6;Rays;0
+May;11;Astros;3;Yankees;2
+May;11;Mariners;2;Blue Jays;7
+May;11;Padres;2;Rangers;5
+May;11;Twins;7;White Sox;6
+May;11;Dodgers;7;Rockies;10
+May;11;Pirates;1;D-backs;2
+May;11;Tigers;7;Angels;1
+May;11;Reds;3;Giants;2
+May;12;Astros;5;Yankees;1
+May;12;Mariners;0;Blue Jays;4
+May;12;Braves;8;Marlins;4
+May;12;Twins;1;Indians;0
+May;12;Rays;5;Red Sox;4
+May;12;Athletics;2;Rangers;5
+May;12;Mets;4;Brewers;7
+May;12;Padres;6;White Sox;3
+May;12;Orioles;2;Royals;3
+May;12;Cubs;3;Cardinals;2
+May;12;Dodgers;6;Rockies;2
+May;12;Pirates;4;D-backs;11
+May;12;Tigers;0;Angels;7
+May;12;Reds;2;Giants;3
+May;13;Rays;3;Red Sox;6
+May;13;Mariners;2;Blue Jays;7
+May;13;Cubs;3;Cardinals;5
+May;13;Reds;1;Giants;3
+May;13;Twins;4;Indians;1
+May;13;Phillies;4;Nationals;6
+May;13;Braves;3;Marlins;1
+May;13;Mets;4;Brewers;11
+May;13;Padres;4;White Sox;5
+May;13;Orioles;3;Royals;4
+May;13;Athletics;5;Rangers;6
+May;13;Dodgers;4;Rockies;0
+May;13;Pirates;4;D-backs;3
+May;13;Tigers;4;Angels;3
+May;14;Mariners;2;Blue Jays;3
+May;14;Braves;1;Marlins;3
+May;14;Twins;3;Indians;8
+May;14;Phillies;4;Nationals;3
+May;14;Phillies;5;Nationals;6
+May;14;Rays;11;Red Sox;2
+May;14;Astros;6;Yankees;11
+May;14;Astros;10;Yankees;7
+May;14;Mets;9;Brewers;11
+May;14;Padres;3;White Sox;9
+May;14;Orioles;8;Royals;9
+May;14;Cubs;0;Cardinals;5
+May;14;Athletics;4;Rangers;6
+May;14;Dodgers;6;Rockies;9
+May;14;Tigers;1;Angels;4
+May;14;Reds;3;Giants;8
+May;14;Pirates;6;D-backs;4
+May;15;Rays;7;Indians;8
+May;15;Braves;10;Blue Jays;6
+May;15;Astros;7;Marlins;2
+May;15;Mets;3;D-backs;7
+May;15;White Sox;3;Angels;5
+May;15;Brewers;5;Padres;6
+May;15;Athletics;5;Mariners;6
+May;15;Dodgers;4;Giants;8
+May;16;Braves;9;Blue Jays;5
+May;16;Rays;6;Indians;4
+May;16;Nationals;8;Pirates;4
+May;16;Orioles;13;Tigers;11
+May;16;Astros;12;Marlins;2
+May;16;Reds;5;Cubs;9
+May;16;Phillies;1;Rangers;5
+May;16;Rockies;7;Twins;3
+May;16;Red Sox;6;Cardinals;3
+May;16;Yankees;7;Royals;1
+May;16;Mets;4;D-backs;5
+May;16;White Sox;6;Angels;7
+May;16;Brewers;6;Padres;2
+May;16;Athletics;9;Mariners;6
+May;16;Dodgers;1;Giants;2
+May;17;Astros;3;Marlins;0
+May;17;Rays;7;Indians;4
+May;17;Mets;4;D-backs;5
+May;17;Dodgers;6;Giants;1
+May;17;Nationals;1;Pirates;6
+May;17;Orioles;4;Tigers;5
+May;17;Blue Jays;4;Braves;8
+May;17;Reds;5;Cubs;7
+May;17;Phillies;3;Rangers;9
+May;17;Red Sox;5;Cardinals;4
+May;17;Yankees;11;Royals;7
+May;17;White Sox;8;Angels;12
+May;17;Brewers;3;Padres;1
+May;17;Athletics;0;Mariners;4
+May;18;Nationals;4;Pirates;10
+May;18;Orioles;5;Tigers;6
+May;18;Rockies;5;Twins;1
+May;18;Rockies;0;Twins;2
+May;18;Phillies;4;Rangers;8
+May;18;Reds;5;Cubs;9
+May;18;Brewers;4;Padres;2
+May;18;Blue Jays;9;Braves;0
+May;18;Yankees;1;Royals;5
+May;18;Red Sox;3;Athletics;8
+May;18;White Sox;4;Mariners;5
+May;18;Marlins;2;Dodgers;7
+May;19;Brewers;6;Cubs;3
+May;19;Phillies;7;Pirates;2
+May;19;Blue Jays;3;Orioles;5
+May;19;Rockies;12;Reds;6
+May;19;Angels;0;Mets;3
+May;19;Yankees;4;Rays;5
+May;19;Rangers;5;Tigers;3
+May;19;Nationals;4;Braves;7
+May;19;Indians;5;Astros;3
+May;19;Royals;3;Twins;4
+May;19;Giants;6;Cardinals;5
+May;19;Red Sox;2;Athletics;3
+May;19;D-backs;10;Padres;1
+May;19;White Sox;2;Mariners;1
+May;19;Marlins;2;Dodgers;7
+May;20;Red Sox;3;Athletics;8
+May;20;Phillies;3;Pirates;6
+May;20;Indians;3;Astros;0
+May;20;Rockies;8;Reds;12
+May;20;Yankees;5;Rays;9
+May;20;Nationals;2;Braves;5
+May;20;Angels;5;Mets;7
+May;20;Giants;3;Cardinals;1
+May;20;Rangers;3;Tigers;9
+May;20;Blue Jays;5;Orioles;7
+May;20;D-backs;9;Padres;1
+May;20;White Sox;16;Mariners;1
+May;20;Marlins;10;Dodgers;6
+May;21;Rockies;6;Reds;4
+May;21;Angels;12;Mets;5
+May;21;Yankees;3;Rays;2
+May;21;Phillies;0;Pirates;1
+May;21;Blue Jays;3;Orioles;1
+May;21;Nationals;3;Braves;2
+May;21;Indians;8;Astros;6
+May;21;Royals;6;Twins;4
+May;21;Royals;4;Twins;8
+May;21;Giants;3;Cardinals;8
+May;21;Brewers;6;Cubs;13
+May;21;Red Sox;12;Athletics;3
+May;21;White Sox;8;Mariners;1
+May;21;Marlins;3;Dodgers;6
+May;21;D-backs;1;Padres;5
+May;21;Rangers;5;Tigers;2
+May;22;Rockies;8;Phillies;1
+May;22;Royals;2;Yankees;4
+May;22;Twins;14;Orioles;7
+May;22;Indians;1;Reds;5
+May;22;Angels;3;Rays;2
+May;22;Pirates;2;Braves;5
+May;22;Giants;6;Cubs;4
+May;22;Tigers;0;Astros;1
+May;22;White Sox;1;D-backs;5
+May;23;Rockies;8;Phillies;2
+May;23;Royals;6;Yankees;2
+May;23;Twins;2;Orioles;0
+May;23;Giants;1;Cubs;4
+May;23;Mariners;1;Nationals;10
+May;23;Indians;8;Reds;7
+May;23;Angels;4;Rays;0
+May;23;Padres;3;Mets;9
+May;23;Rangers;6;Red Sox;11
+May;23;Pirates;5;Braves;6
+May;23;Blue Jays;4;Brewers;3
+May;23;Tigers;2;Astros;6
+May;23;White Sox;4;D-backs;5
+May;23;Marlins;11;Athletics;9
+May;23;Cardinals;1;Dodgers;2
+May;24;Twins;4;Orioles;3
+May;24;Blue Jays;8;Brewers;4
+May;24;Marlins;1;Athletics;4
+May;24;White Sox;6;D-backs;8
+May;24;Reds;4;Indians;3
+May;24;Rockies;7;Phillies;2
+May;24;Royals;0;Yankees;3
+May;24;Mariners;1;Nationals;5
+May;24;Angels;2;Rays;5
+May;24;Padres;6;Mets;5
+May;24;Rangers;4;Red Sox;9
+May;24;Pirates;12;Braves;5
+May;24;Giants;4;Cubs;5
+May;24;Tigers;6;Astros;3
+May;24;Cardinals;6;Dodgers;1
+May;25;Mariners;4;Nationals;2
+May;25;Pirates;9;Braves;4
+May;25;Rockies;1;Phillies;2
+May;25;Angels;0;Rays;4
+May;25;Giants;1;Cubs;5
+May;25;Padres;4;Mets;3
+May;25;Rangers;2;Red Sox;6
+May;25;D-backs;4;Brewers;0
+May;25;Tigers;6;Astros;7
+May;25;Cardinals;3;Dodgers;7
+May;26;Reds;5;Phillies;2
+May;26;Mets;8;Pirates;1
+May;26;Athletics;4;Yankees;1
+May;26;Padres;1;Nationals;5
+May;26;Rangers;6;Blue Jays;7
+May;26;Royals;6;Indians;4
+May;26;Angels;5;Marlins;8
+May;26;Mariners;0;Red Sox;3
+May;26;D-backs;4;Brewers;2
+May;26;Orioles;0;Astros;2
+May;26;Tigers;2;White Sox;8
+May;26;Rays;5;Twins;2
+May;26;Cardinals;0;Rockies;10
+May;26;Cubs;0;Dodgers;4
+May;26;Braves;2;Giants;0
+May;27;Athletics;2;Yankees;3
+May;27;Rangers;1;Blue Jays;3
+May;27;Tigers;0;White Sox;3
+May;27;Tigers;4;White Sox;3
+May;27;Rays;3;Twins;5
+May;27;Reds;3;Phillies;4
+May;27;Padres;0;Nationals;3
+May;27;Mariners;0;Red Sox;6
+May;27;D-backs;1;Brewers;6
+May;27;Royals;5;Indians;2
+May;27;Angels;5;Marlins;2
+May;27;Orioles;2;Astros;5
+May;27;Cubs;0;Dodgers;5
+May;27;Mets;4;Pirates;5
+May;27;Cardinals;3;Rockies;0
+May;27;Braves;3;Giants;6
+May;28;Athletics;5;Yankees;9
+May;28;Rangers;3;Blue Jays;1
+May;28;Royals;1;Indians;10
+May;28;Angels;2;Marlins;9
+May;28;Reds;8;Phillies;4
+May;28;Padres;5;Nationals;3
+May;28;Mariners;5;Red Sox;0
+May;28;D-backs;5;Brewers;9
+May;28;Orioles;4;Astros;8
+May;28;Tigers;3;White Sox;7
+May;28;Rays;8;Twins;6
+May;28;Cardinals;4;Rockies;8
+May;28;Braves;1;Giants;7
+May;28;Cubs;4;Dodgers;9
+May;28;Mets;7;Pirates;2
+May;29;Yankees;2;Orioles;3
+May;29;Red Sox;4;White Sox;5
+May;29;Astros;16;Twins;8
+May;29;Dodgers;5;Cardinals;1
+May;29;Mariners;6;Rockies;5
+May;29;D-backs;3;Pirates;4
+May;29;Nationals;3;Giants;0
+May;29;Brewers;2;Mets;4
+May;29;Athletics;3;Indians;5
+May;29;Cubs;2;Padres;5
+May;29;Reds;2;Blue Jays;17
+May;29;Phillies;1;Marlins;4
+May;29;Tigers;10;Royals;7
+May;29;Rays;10;Rangers;8
+May;29;Braves;6;Angels;3
+May;30;Athletics;4;Indians;9
+May;30;D-backs;3;Pirates;0
+May;30;Dodgers;9;Cardinals;4
+May;30;Yankees;8;Orioles;3
+May;30;Reds;4;Blue Jays;6
+May;30;Brewers;4;Mets;5
+May;30;Phillies;2;Marlins;7
+May;30;Mariners;10;Rockies;4
+May;30;Rays;5;Rangers;9
+May;30;Red Sox;13;White Sox;7
+May;30;Astros;7;Twins;2
+May;30;Tigers;0;Royals;1
+May;30;Braves;3;Angels;9
+May;30;Cubs;2;Padres;6
+May;30;Nationals;6;Giants;3
+May;31;D-backs;6;Pirates;5
+May;31;Reds;4;Blue Jays;5
+May;31;Astros;17;Twins;6
+May;31;Phillies;2;Marlins;10
+May;31;Cubs;1;Padres;2
+May;31;Athletics;3;Indians;1
+May;31;Yankees;4;Orioles;10
+May;31;Brewers;7;Mets;1
+May;31;Rays;7;Rangers;5
+May;31;Red Sox;4;White Sox;1
+May;31;Tigers;6;Royals;5
+May;31;Dodgers;1;Cardinals;2
+May;31;Braves;1;Angels;2
+May;31;Rockies;0;Mariners;5
+May;31;Nationals;3;Giants;1
+June;1;Athletics;0;Indians;8
+June;1;Brewers;2;Mets;1
+June;1;Dodgers;0;Cardinals;2
+June;1;Rockies;6;Mariners;3
+June;1;Red Sox;5;Orioles;7
+June;1;Yankees;12;Blue Jays;2
+June;1;D-backs;3;Marlins;2
+June;1;Twins;4;Angels;2
+June;2;Cardinals;2;Cubs;3
+June;2;Red Sox;2;Orioles;3
+June;2;Giants;10;Phillies;0
+June;2;Yankees;5;Blue Jays;7
+June;2;D-backs;5;Marlins;7
+June;2;Braves;2;Reds;3
+June;2;White Sox;5;Tigers;15
+June;2;Pirates;12;Mets;7
+June;2;Astros;7;Rangers;1
+June;2;Dodgers;2;Brewers;1
+June;2;Indians;0;Royals;4
+June;2;Nationals;13;Athletics;3
+June;2;Twins;11;Angels;5
+June;2;Rockies;5;Padres;8
+June;2;Rays;4;Mariners;12
+June;3;Yankees;7;Blue Jays;0
+June;3;Indians;5;Royals;12
+June;3;Cardinals;3;Cubs;5
+June;3;Giants;3;Phillies;5
+June;3;Nationals;4;Athletics;10
+June;3;D-backs;0;Marlins;3
+June;3;Braves;6;Reds;5
+June;3;White Sox;1;Tigers;10
+June;3;Rockies;10;Padres;1
+June;3;Dodgers;10;Brewers;8
+June;3;Red Sox;5;Orioles;2
+June;3;Astros;6;Rangers;5
+June;3;Pirates;2;Mets;4
+June;3;Twins;2;Angels;7
+June;3;Rays;2;Mariners;9
+June;4;Yankees;2;Blue Jays;3
+June;4;D-backs;5;Marlins;6
+June;4;Braves;13;Reds;8
+June;4;White Sox;4;Tigers;7
+June;4;Pirates;11;Mets;1
+June;4;Red Sox;7;Orioles;3
+June;4;Giants;7;Phillies;9
+June;4;Dodgers;0;Brewers;3
+June;4;Indians;8;Royals;0
+June;4;Astros;7;Rangers;2
+June;4;Twins;3;Angels;2
+June;4;Nationals;11;Athletics;10
+June;4;Rays;1;Mariners;7
+June;4;Rockies;3;Padres;1
+June;4;Cardinals;6;Cubs;7
+June;5;Cardinals;2;Reds;4
+June;5;Phillies;11;Braves;4
+June;5;Giants;7;Brewers;2
+June;5;Marlins;1;Cubs;3
+June;5;Astros;7;Royals;3
+June;5;Blue Jays;3;Athletics;5
+June;5;Nationals;4;Dodgers;2
+June;6;Red Sox;5;Yankees;4
+June;6;Pirates;5;Orioles;6
+June;6;White Sox;4;Rays;2
+June;6;Angels;5;Tigers;3
+June;6;Cardinals;1;Reds;13
+June;6;Phillies;3;Braves;1
+June;6;Giants;2;Brewers;5
+June;6;Marlins;2;Cubs;10
+June;6;Mets;8;Rangers;10
+June;6;Astros;7;Royals;9
+June;6;Indians;3;Rockies;11
+June;6;Padres;2;D-backs;10
+June;6;Blue Jays;1;Athletics;4
+June;6;Twins;3;Mariners;12
+June;6;Nationals;2;Dodgers;1
+June;7;Indians;1;Rockies;8
+June;7;Nationals;1;Dodgers;2
+June;7;Blue Jays;7;Athletics;5
+June;7;Red Sox;0;Yankees;8
+June;7;Pirates;6;Orioles;9
+June;7;White Sox;1;Rays;3
+June;7;Angels;0;Tigers;4
+June;7;Cardinals;4;Reds;6
+June;7;Phillies;1;Braves;14
+June;7;Marlins;6;Cubs;5
+June;7;Mets;4;Rangers;3
+June;7;Giants;3;Brewers;6
+June;7;Astros;5;Royals;7
+June;7;Padres;4;D-backs;7
+June;7;Twins;5;Mariners;6
+June;8;Cardinals;2;Reds;5
+June;8;Angels;11;Tigers;4
+June;8;Giants;9;Brewers;5
+June;8;Padres;3;D-backs;15
+June;8;Orioles;1;Nationals;6
+June;8;Red Sox;1;Yankees;9
+June;8;Marlins;7;Pirates;1
+June;8;White Sox;5;Rays;7
+June;8;Phillies;1;Braves;3
+June;8;Rockies;4;Cubs;1
+June;8;Astros;6;Royals;1
+June;8;Twins;2;Mariners;1
+June;9;Rockies;5;Cubs;3
+June;9;Marlins;12;Pirates;7
+June;9;Rangers;5;Nationals;2
+June;9;White Sox;3;Indians;7
+June;9;Tigers;3;Red Sox;5
+June;9;Athletics;4;Rays;13
+June;9;Orioles;2;Yankees;8
+June;9;Mets;2;Braves;3
+June;9;Angels;9;Astros;4
+June;9;Phillies;2;Cardinals;3
+June;9;Brewers;8;D-backs;6
+June;9;Reds;2;Dodgers;7
+June;9;Royals;3;Padres;6
+June;9;Blue Jays;2;Mariners;4
+June;9;Twins;4;Giants;0
+June;10;Rangers;6;Nationals;3
+June;10;Mets;6;Braves;1
+June;10;Mets;8;Braves;1
+June;10;Athletics;5;Rays;6
+June;10;Athletics;7;Rays;2
+June;10;Phillies;0;Cardinals;7
+June;10;Rockies;9;Cubs;1
+June;10;Marlins;6;Pirates;7
+June;10;Twins;3;Giants;2
+June;10;Royals;12;Padres;6
+June;10;Angels;1;Astros;3
+June;10;Orioles;3;Yankees;16
+June;10;White Sox;5;Indians;3
+June;10;Tigers;3;Red Sox;11
+June;10;Reds;4;Dodgers;5
+June;10;Brewers;2;D-backs;3
+June;10;Blue Jays;4;Mariners;2
+June;11;Orioles;3;Yankees;14
+June;11;White Sox;2;Indians;4
+June;11;Athletics;4;Rays;5
+June;11;Marlins;1;Pirates;3
+June;11;Mets;2;Braves;1
+June;11;Angels;12;Astros;6
+June;11;Phillies;5;Cardinals;6
+June;11;Rockies;5;Cubs;7
+June;11;Twins;8;Giants;13
+June;11;Rangers;5;Nationals;1
+June;11;Reds;7;Dodgers;9
+June;11;Brewers;1;D-backs;11
+June;11;Blue Jays;4;Mariners;0
+June;11;Royals;8;Padres;3
+June;11;Tigers;8;Red Sox;3
+June;12;Braves;11;Nationals;10
+June;12;Rockies;2;Pirates;7
+June;12;Cubs;1;Mets;6
+June;12;Phillies;5;Red Sox;6
+June;12;Orioles;7;White Sox;10
+June;12;Mariners;14;Twins;3
+June;12;Rangers;6;Astros;1
+June;12;Yankees;5;Angels;3
+June;12;Reds;3;Padres;9
+June;13;Brewers;0;Cardinals;6
+June;13;Brewers;8;Cardinals;5
+June;13;Braves;5;Nationals;10
+June;13;Rockies;2;Pirates;5
+June;13;Rays;8;Blue Jays;1
+June;13;D-backs;7;Tigers;6
+June;13;Cubs;14;Mets;3
+June;13;Dodgers;7;Indians;5
+June;13;Athletics;1;Marlins;8
+June;13;Phillies;3;Red Sox;4
+June;13;Orioles;1;White Sox;6
+June;13;Mariners;7;Twins;20
+June;13;Rangers;4;Astros;2
+June;13;Yankees;2;Angels;3
+June;13;Reds;2;Padres;6
+June;13;Royals;8;Giants;1
+June;14;Athletics;6;Marlins;11
+June;14;Reds;2;Padres;4
+June;14;Royals;7;Giants;2
+June;14;Braves;13;Nationals;2
+June;14;Red Sox;7;Phillies;3
+June;14;Rockies;5;Pirates;1
+June;14;Rays;6;Blue Jays;7
+June;14;D-backs;2;Tigers;1
+June;14;Cubs;4;Mets;9
+June;14;Dodgers;6;Indians;4
+June;14;Orioles;10;White Sox;6
+June;14;Mariners;6;Twins;4
+June;14;Rangers;2;Astros;13
+June;14;Brewers;7;Cardinals;6
+June;14;Yankees;5;Angels;7
+June;15;Dodgers;5;Indians;12
+June;15;Mariners;2;Twins;6
+June;15;Orioles;2;White Sox;5
+June;15;Red Sox;0;Phillies;1
+June;15;Rays;3;Tigers;5
+June;15;Nationals;8;Mets;3
+June;15;Brewers;6;Cardinals;4
+June;15;Giants;9;Rockies;10
+June;15;Yankees;7;Athletics;8
+June;15;Royals;7;Angels;2
+June;16;D-backs;5;Phillies;4
+June;16;Cubs;9;Pirates;5
+June;16;Cardinals;11;Orioles;2
+June;16;White Sox;11;Blue Jays;4
+June;16;Dodgers;3;Reds;1
+June;16;Rays;4;Tigers;13
+June;16;Nationals;7;Mets;2
+June;16;Marlins;5;Braves;0
+June;16;Mariners;4;Rangers;10
+June;16;Red Sox;2;Astros;1
+June;16;Indians;8;Twins;1
+June;16;Padres;5;Brewers;6
+June;16;Giants;8;Rockies;10
+June;16;Yankees;6;Athletics;7
+June;16;Royals;3;Angels;1
+June;17;White Sox;5;Blue Jays;2
+June;17;Indians;9;Twins;3
+June;17;Indians;6;Twins;2
+June;17;Giants;1;Rockies;5
+June;17;D-backs;5;Phillies;1
+June;17;Yankees;2;Athletics;5
+June;17;Cardinals;7;Orioles;15
+June;17;Dodgers;10;Reds;2
+June;17;Marlins;7;Braves;8
+June;17;Padres;7;Brewers;5
+June;17;Rays;3;Tigers;2
+June;17;Nationals;7;Mets;4
+June;17;Mariners;4;Rangers;10
+June;17;Red Sox;1;Astros;7
+June;17;Cubs;3;Pirates;4
+June;17;Royals;0;Angels;9
+June;18;White Sox;3;Blue Jays;7
+June;18;Dodgers;8;Reds;7
+June;18;Rays;9;Tigers;1
+June;18;Nationals;1;Mets;5
+June;18;D-backs;5;Phillies;4
+June;18;Cubs;7;Pirates;1
+June;18;Marlins;4;Braves;5
+June;18;Cardinals;5;Orioles;8
+June;18;Indians;5;Twins;2
+June;18;Padres;1;Brewers;2
+June;18;Mariners;7;Rangers;3
+June;18;Giants;5;Rockies;7
+June;18;Royals;7;Angels;3
+June;18;Yankees;3;Athletics;4
+June;18;Red Sox;6;Astros;5
+June;19;Indians;12;Orioles;0
+June;19;Reds;7;Rays;3
+June;19;Nationals;7;Marlins;8
+June;19;Giants;0;Braves;9
+June;19;Pirates;8;Brewers;1
+June;19;Padres;2;Cubs;3
+June;19;Blue Jays;7;Rangers;6
+June;19;Red Sox;2;Royals;4
+June;19;Astros;4;Athletics;1
+June;19;Tigers;2;Mariners;6
+June;19;Mets;6;Dodgers;10
+June;20;Indians;5;Orioles;6
+June;20;Angels;8;Yankees;3
+June;20;Cardinals;8;Phillies;1
+June;20;Reds;5;Rays;6
+June;20;Nationals;12;Marlins;3
+June;20;Giants;6;Braves;3
+June;20;Pirates;7;Brewers;3
+June;20;Padres;0;Cubs;4
+June;20;Blue Jays;1;Rangers;6
+June;20;White Sox;7;Twins;9
+June;20;Red Sox;8;Royals;3
+June;20;D-backs;3;Rockies;4
+June;20;Astros;8;Athletics;4
+June;20;Tigers;4;Mariners;5
+June;20;Mets;0;Dodgers;12
+June;21;Reds;3;Rays;8
+June;21;Nationals;1;Marlins;2
+June;21;Red Sox;4;Royals;6
+June;21;Padres;3;Cubs;2
+June;21;Indians;5;Orioles;1
+June;21;Angels;4;Yankees;8
+June;21;Cardinals;7;Phillies;6
+June;21;Giants;3;Braves;5
+June;21;Blue Jays;7;Rangers;5
+June;21;White Sox;2;Twins;4
+June;21;Pirates;3;Brewers;4
+June;21;D-backs;16;Rockies;5
+June;21;Astros;5;Athletics;1
+June;21;Tigers;5;Mariners;7
+June;21;Mets;2;Dodgers;8
+June;22;Cardinals;1;Phillies;5
+June;22;White Sox;9;Twins;0
+June;22;Blue Jays;4;Rangers;11
+June;22;Pirates;2;Brewers;4
+June;22;D-backs;10;Rockies;3
+June;22;Astros;12;Athletics;9
+June;22;Indians;6;Orioles;3
+June;22;Angels;10;Yankees;5
+June;22;Cubs;11;Marlins;1
+June;22;Giants;11;Braves;12
+June;22;Tigers;6;Mariners;9
+June;22;Mets;3;Dodgers;6
+June;23;Reds;5;Nationals;6
+June;23;Rangers;1;Yankees;2
+June;23;Orioles;5;Rays;15
+June;23;Cubs;0;Marlins;2
+June;23;Angels;4;Red Sox;9
+June;23;Twins;5;Indians;0
+June;23;Brewers;4;Braves;5
+June;23;Athletics;3;White Sox;0
+June;23;Pirates;4;Cardinals;3
+June;23;Blue Jays;4;Royals;5
+June;23;Phillies;6;D-backs;1
+June;23;Rockies;1;Dodgers;6
+June;23;Tigers;0;Padres;1
+June;23;Astros;3;Mariners;13
+June;23;Mets;11;Giants;4
+June;24;Rangers;8;Yankees;1
+June;24;Athletics;10;White Sox;2
+June;24;Blue Jays;2;Royals;3
+June;24;Reds;3;Nationals;18
+June;24;Orioles;8;Rays;3
+June;24;Cubs;5;Marlins;3
+June;24;Brewers;1;Braves;3
+June;24;Twins;4;Indians;2
+June;24;Angels;6;Red Sox;3
+June;24;Mets;5;Giants;2
+June;24;Pirates;7;Cardinals;3
+June;24;Rockies;0;Dodgers;4
+June;24;Tigers;3;Padres;7
+June;24;Astros;5;Mariners;2
+June;24;Phillies;2;D-backs;9
+June;25;Orioles;8;Rays;5
+June;25;Cubs;2;Marlins;4
+June;25;Twins;4;Indians;0
+June;25;Reds;6;Nationals;2
+June;25;Angels;4;Red Sox;2
+June;25;Brewers;7;Braves;0
+June;25;Rangers;7;Yankees;6
+June;25;Athletics;5;White Sox;3
+June;25;Blue Jays;8;Royals;2
+June;25;Mets;8;Giants;2
+June;25;Rockies;6;Dodgers;12
+June;25;Astros;8;Mariners;2
+June;25;Phillies;1;D-backs;2
+June;25;Tigers;7;Padres;5
+June;25;Pirates;4;Cardinals;8
+June;26;Phillies;1;D-backs;6
+June;26;Reds;2;Cardinals;8
+June;26;Cubs;5;Nationals;4
+June;26;Twins;1;Red Sox;4
+June;26;Rangers;9;Indians;15
+June;26;Yankees;6;White Sox;5
+June;26;Rockies;2;Giants;9
+June;26;Angels;4;Dodgers;0
+June;27;Cubs;1;Nationals;6
+June;27;Rays;4;Pirates;2
+June;27;Orioles;3;Blue Jays;1
+June;27;Royals;3;Tigers;5
+June;27;Brewers;6;Reds;8
+June;27;Twins;2;Red Sox;9
+June;27;Mets;3;Marlins;6
+June;27;Rangers;2;Indians;1
+June;27;Yankees;3;White Sox;4
+June;27;Athletics;6;Astros;4
+June;27;Cardinals;5;D-backs;6
+June;27;Braves;3;Padres;0
+June;27;Angels;0;Dodgers;4
+June;27;Phillies;8;Mariners;2
+June;27;Rockies;3;Giants;4
+June;28;Phillies;5;Mariners;4
+June;28;Rockies;3;Giants;5
+June;28;Cubs;4;Nationals;8
+June;28;Rays;2;Pirates;6
+June;28;Orioles;0;Blue Jays;4
+June;28;Royals;8;Tigers;2
+June;28;Brewers;3;Reds;4
+June;28;Twins;4;Red Sox;1
+June;28;Mets;8;Marlins;0
+June;28;Rangers;3;Indians;5
+June;28;Yankees;12;White Sox;3
+June;28;Athletics;8;Astros;11
+June;28;Cardinals;4;D-backs;3
+June;28;Dodgers;2;Angels;3
+June;28;Braves;4;Padres;7
+June;29;Rangers;1;Indians;5
+June;29;Royals;3;Tigers;7
+June;29;Athletics;1;Astros;6
+June;29;Cardinals;10;D-backs;4
+June;29;Cubs;5;Nationals;4
+June;29;Rays;0;Pirates;4
+June;29;Orioles;2;Blue Jays;0
+June;29;Brewers;11;Reds;3
+June;29;Twins;3;Red Sox;6
+June;29;Mets;6;Marlins;3
+June;29;Yankees;3;White Sox;4
+June;29;Braves;0;Padres;6
+June;29;Dodgers;6;Angels;2
+June;30;Giants;13;Pirates;5
+June;30;Rays;6;Orioles;4
+June;30;Red Sox;7;Blue Jays;4
+June;30;Cubs;0;Reds;5
+June;30;Phillies;1;Mets;2
+June;30;Marlins;2;Brewers;3
+June;30;Yankees;13;Astros;4
+June;30;Rangers;7;White Sox;8
+June;30;Twins;1;Royals;8
+June;30;Nationals;1;Cardinals;8
+June;30;Rockies;6;D-backs;3
+June;30;Braves;3;Athletics;1
+June;30;Mariners;10;Angels;0
+June;30;Dodgers;10;Padres;4
+July;1;Red Sox;7;Blue Jays;1
+July;1;Indians;4;Tigers;7
+July;1;Indians;4;Tigers;1
+July;1;Rangers;10;White Sox;4
+July;1;Twins;6;Royals;11
+July;1;Twins;10;Royals;5
+July;1;Braves;4;Athletics;3
+July;1;Giants;2;Pirates;1
+July;1;Rays;10;Orioles;3
+July;1;Cubs;3;Reds;5
+July;1;Marlins;4;Brewers;8
+July;1;Phillies;6;Mets;7
+July;1;Yankees;6;Astros;7
+July;1;Nationals;1;Cardinals;2
+July;1;Mariners;0;Angels;4
+July;1;Rockies;2;D-backs;6
+July;1;Dodgers;8;Padres;0
+July;2;Red Sox;15;Blue Jays;1
+July;2;Cubs;6;Reds;2
+July;2;Indians;11;Tigers;8
+July;2;Phillies;7;Mets;1
+July;2;Giants;5;Pirates;3
+July;2;Rays;1;Orioles;7
+July;2;Marlins;10;Brewers;3
+July;2;Yankees;1;Astros;8
+July;2;Rangers;5;White Sox;6
+July;2;Twins;2;Royals;6
+July;2;Mariners;5;Angels;3
+July;2;Braves;4;Athletics;3
+July;2;Rockies;3;D-backs;4
+July;2;Dodgers;3;Padres;5
+July;2;Nationals;7;Cardinals;2
+July;3;Orioles;1;Brewers;8
+July;3;Mets;2;Nationals;3
+July;3;Pirates;0;Phillies;4
+July;3;Blue Jays;3;Yankees;6
+July;3;Marlins;6;Cardinals;14
+July;3;Red Sox;7;Rangers;5
+July;3;Reds;3;Rockies;5
+July;3;Angels;5;Twins;9
+July;3;White Sox;7;Athletics;2
+July;3;Royals;3;Mariners;1
+July;4;Mets;4;Nationals;11
+July;4;Blue Jays;4;Yankees;1
+July;4;Giants;3;Tigers;5
+July;4;Angels;4;Twins;5
+July;4;Marlins;5;Cardinals;2
+July;4;Rays;6;Cubs;5
+July;4;White Sox;6;Athletics;7
+July;4;Pirates;3;Phillies;0
+July;4;Orioles;2;Brewers;6
+July;4;Royals;7;Mariners;3
+July;4;Padres;1;Indians;0
+July;4;Astros;16;Braves;4
+July;4;Red Sox;11;Rangers;4
+July;4;Reds;8;Rockies;1
+July;4;D-backs;3;Dodgers;4
+July;5;Blue Jays;7;Yankees;6
+July;5;Rays;3;Cubs;7
+July;5;White Sox;4;Athletics;7
+July;5;Pirates;5;Phillies;2
+July;5;Orioles;0;Brewers;4
+July;5;Padres;6;Indians;2
+July;5;Giants;5;Tigers;4
+July;5;Astros;10;Braves;4
+July;5;Red Sox;2;Rangers;8
+July;5;Angels;2;Twins;1
+July;5;Marlins;9;Cardinals;6
+July;5;Reds;3;Rockies;5
+July;5;D-backs;0;Dodgers;1
+July;5;Royals;9;Mariners;6
+July;6;Giants;2;Tigers;6
+July;6;Marlins;3;Cardinals;4
+July;6;Brewers;11;Cubs;2
+July;6;Reds;6;Rockies;3
+July;6;Pirates;6;Phillies;3
+July;6;Braves;5;Nationals;2
+July;6;Astros;4;Blue Jays;7
+July;6;Red Sox;1;Rays;4
+July;6;Padres;2;Indians;11
+July;6;Orioles;4;Twins;6
+July;6;D-backs;4;Dodgers;5
+July;6;Athletics;7;Mariners;4
+July;7;Pirates;1;Cubs;6
+July;7;Padres;4;Phillies;3
+July;7;Braves;4;Nationals;5
+July;7;Brewers;9;Yankees;4
+July;7;Astros;12;Blue Jays;2
+July;7;Red Sox;8;Rays;3
+July;7;Tigers;2;Indians;11
+July;7;Angels;0;Rangers;10
+July;7;Orioles;6;Twins;9
+July;7;Mets;6;Cardinals;5
+July;7;White Sox;4;Rockies;12
+July;7;Reds;3;D-backs;6
+July;7;Royals;1;Dodgers;4
+July;7;Athletics;2;Mariners;7
+July;7;Marlins;6;Giants;1
+July;8;Brewers;3;Yankees;5
+July;8;Astros;2;Blue Jays;7
+July;8;Orioles;5;Twins;1
+July;8;Braves;13;Nationals;0
+July;8;Padres;2;Phillies;1
+July;8;Red Sox;0;Rays;1
+July;8;Mets;1;Cardinals;4
+July;8;Tigers;0;Indians;4
+July;8;Royals;4;Dodgers;5
+July;8;Pirates;4;Cubs;2
+July;8;Angels;2;Rangers;5
+July;8;White Sox;5;Rockies;4
+July;8;Marlins;5;Giants;4
+July;8;Reds;7;D-backs;0
+July;8;Athletics;4;Mariners;3
+July;9;Brewers;5;Yankees;3
+July;9;Astros;19;Blue Jays;1
+July;9;Red Sox;3;Rays;5
+July;9;Pirates;14;Cubs;3
+July;9;Braves;5;Nationals;10
+July;9;Padres;1;Phillies;7
+July;9;Orioles;11;Twins;5
+July;9;Mets;0;Cardinals;6
+July;9;Angels;3;Rangers;0
+July;9;White Sox;0;Rockies;10
+July;9;Marlins;10;Giants;8
+July;9;Reds;2;D-backs;1
+July;9;Royals;2;Dodgers;5
+July;9;Athletics;0;Mariners;4
+July;9;Tigers;5;Indians;3
+July;14;Cubs;9;Orioles;8
+July;14;Cardinals;2;Pirates;5
+July;14;Rockies;2;Mets;14
+July;14;Dodgers;6;Marlins;4
+July;14;Yankees;4;Red Sox;5
+July;14;Blue Jays;7;Tigers;2
+July;14;Nationals;5;Reds;0
+July;14;D-backs;3;Braves;4
+July;14;Twins;5;Astros;10
+July;14;Phillies;6;Brewers;9
+July;14;Mariners;4;White Sox;2
+July;14;Rangers;5;Royals;3
+July;14;Indians;0;Athletics;5
+July;14;Rays;2;Angels;1
+July;14;Giants;5;Padres;4
+July;15;Yankees;4;Red Sox;1
+July;15;Blue Jays;1;Tigers;11
+July;15;Cubs;10;Orioles;3
+July;15;Cardinals;4;Pirates;0
+July;15;D-backs;5;Braves;8
+July;15;Rockies;3;Mets;9
+July;15;Dodgers;7;Marlins;1
+July;15;Twins;4;Astros;2
+July;15;Phillies;2;Brewers;3
+July;15;Mariners;4;White Sox;3
+July;15;Nationals;10;Reds;7
+July;15;Rangers;1;Royals;0
+July;15;Giants;3;Padres;5
+July;15;Indians;3;Athletics;5
+July;15;Rays;6;Angels;3
+July;16;Yankees;3;Red Sox;0
+July;16;Yankees;0;Red Sox;3
+July;16;Rockies;13;Mets;4
+July;16;Dodgers;3;Marlins;2
+July;16;Blue Jays;5;Tigers;6
+July;16;Nationals;14;Reds;4
+July;16;D-backs;1;Braves;7
+July;16;Cubs;8;Orioles;0
+July;16;Cardinals;3;Pirates;4
+July;16;Twins;3;Astros;5
+July;16;Phillies;5;Brewers;2
+July;16;Mariners;7;White Sox;6
+July;16;Rangers;3;Royals;4
+July;16;Rays;3;Angels;4
+July;16;Indians;3;Athletics;7
+July;16;Giants;1;Padres;7
+July;17;Nationals;6;Reds;1
+July;17;Brewers;2;Pirates;4
+July;17;Rangers;1;Orioles;3
+July;17;Phillies;5;Marlins;6
+July;17;Cardinals;6;Mets;3
+July;17;Blue Jays;4;Red Sox;3
+July;17;Cubs;4;Braves;3
+July;17;Yankees;2;Twins;4
+July;17;Mariners;9;Astros;7
+July;17;Tigers;10;Royals;2
+July;17;Padres;6;Rockies;9
+July;17;Rays;3;Athletics;2
+July;17;Indians;5;Giants;3
+July;18;Brewers;3;Pirates;4
+July;18;Rangers;1;Orioles;12
+July;18;D-backs;11;Reds;2
+July;18;Phillies;5;Marlins;2
+July;18;Cardinals;5;Mets;0
+July;18;Blue Jays;4;Red Sox;5
+July;18;Cubs;5;Braves;1
+July;18;Dodgers;1;White Sox;0
+July;18;Yankees;6;Twins;3
+July;18;Mariners;2;Astros;6
+July;18;Tigers;9;Royals;3
+July;18;Padres;7;Rockies;9
+July;18;Rays;4;Athletics;3
+July;18;Nationals;4;Angels;3
+July;18;Indians;1;Giants;2
+July;19;Cubs;8;Braves;2
+July;19;Phillies;10;Marlins;3
+July;19;Yankees;1;Twins;6
+July;19;Mariners;4;Astros;1
+July;19;Padres;4;Rockies;18
+July;19;Rays;2;Athletics;7
+July;19;Indians;4;Giants;5
+July;19;Brewers;2;Pirates;3
+July;19;Rangers;2;Orioles;10
+July;19;D-backs;3;Reds;4
+July;19;Cardinals;3;Mets;7
+July;19;Blue Jays;1;Red Sox;5
+July;19;Dodgers;9;White Sox;1
+July;19;Tigers;3;Royals;4
+July;19;Nationals;0;Angels;7
+July;20;Cardinals;2;Mets;3
+July;20;D-backs;12;Reds;2
+July;20;Brewers;2;Pirates;4
+July;20;Blue Jays;8;Red Sox;6
+July;20;Rangers;7;Orioles;9
+July;20;Tigers;4;Royals;16
+July;20;Braves;6;Dodgers;3
+July;20;Yankees;4;Mariners;1
+July;20;Padres;5;Giants;2
+July;21;Cardinals;11;Cubs;4
+July;21;Astros;8;Orioles;7
+July;21;Brewers;1;Phillies;6
+July;21;Marlins;3;Reds;1
+July;21;Athletics;5;Mets;7
+July;21;Rangers;4;Rays;3
+July;21;Blue Jays;3;Indians;13
+July;21;Tigers;6;Twins;3
+July;21;White Sox;6;Royals;7
+July;21;Pirates;13;Rockies;5
+July;21;Nationals;5;D-backs;6
+July;21;Red Sox;6;Angels;2
+July;21;Braves;12;Dodgers;3
+July;21;Yankees;5;Mariners;1
+July;21;Padres;12;Giants;9
+July;22;Padres;4;Giants;5
+July;22;Cardinals;2;Cubs;3
+July;22;Astros;8;Orioles;4
+July;22;Brewers;9;Phillies;8
+July;22;Tigers;5;Twins;6
+July;22;Marlins;5;Reds;4
+July;22;Athletics;5;Mets;6
+July;22;Rangers;4;Rays;3
+July;22;Blue Jays;1;Indians;2
+July;22;White Sox;2;Royals;7
+July;22;Pirates;3;Rockies;7
+July;22;Nationals;4;D-backs;3
+July;22;Red Sox;3;Angels;7
+July;22;Braves;2;Dodgers;6
+July;22;Yankees;5;Mariners;6
+July;23;Marlins;3;Reds;6
+July;23;Athletics;3;Mets;2
+July;23;Rangers;6;Rays;5
+July;23;Blue Jays;1;Indians;8
+July;23;Astros;7;Orioles;9
+July;23;Brewers;3;Phillies;6
+July;23;Tigers;9;Twins;6
+July;23;White Sox;4;Royals;5
+July;23;Pirates;3;Rockies;13
+July;23;Red Sox;2;Angels;3
+July;23;Padres;5;Giants;2
+July;23;Braves;4;Dodgers;5
+July;23;Yankees;6;Mariners;4
+July;23;Nationals;6;D-backs;2
+July;23;Cardinals;3;Cubs;5
+July;24;White Sox;3;Cubs;1
+July;24;Astros;13;Phillies;4
+July;24;Athletics;2;Blue Jays;4
+July;24;Orioles;5;Rays;0
+July;24;Reds;2;Indians;6
+July;24;Royals;5;Tigers;3
+July;24;Marlins;4;Rangers;0
+July;24;Rockies;2;Cardinals;8
+July;24;Braves;2;D-backs;10
+July;24;Red Sox;0;Mariners;4
+July;24;Twins;4;Dodgers;6
+July;24;Mets;5;Padres;3
+July;24;Pirates;10;Giants;3
+July;25;White Sox;2;Cubs;7
+July;25;Reds;2;Yankees;4
+July;25;Astros;5;Phillies;0
+July;25;Brewers;8;Nationals;0
+July;25;Athletics;1;Blue Jays;4
+July;25;Orioles;4;Rays;5
+July;25;Royals;3;Tigers;1
+July;25;Angels;7;Indians;11
+July;25;Marlins;4;Rangers;10
+July;25;Rockies;2;Cardinals;3
+July;25;Braves;8;D-backs;3
+July;25;Red Sox;5;Mariners;6
+July;25;Twins;2;Dodgers;6
+July;25;Mets;6;Padres;5
+July;25;Pirates;3;Giants;11
+July;26;Orioles;1;Rays;5
+July;26;Reds;5;Yankees;9
+July;26;Braves;3;D-backs;10
+July;26;Red Sox;4;Mariners;0
+July;26;Pirates;1;Giants;2
+July;26;Astros;0;Phillies;9
+July;26;Brewers;5;Nationals;8
+July;26;Athletics;2;Blue Jays;3
+July;26;Royals;16;Tigers;2
+July;26;Angels;4;Indians;10
+July;26;Marlins;22;Rangers;10
+July;26;Cubs;8;White Sox;3
+July;26;Rockies;5;Cardinals;10
+July;26;Twins;5;Dodgers;6
+July;26;Mets;3;Padres;6
+July;27;Brewers;2;Nationals;15
+July;27;Angels;1;Indians;2
+July;27;Athletics;4;Blue Jays;8
+July;27;Rays;5;Yankees;6
+July;27;Reds;1;Marlins;4
+July;27;D-backs;4;Cardinals;0
+July;27;Cubs;6;White Sox;3
+July;27;Mets;5;Padres;7
+July;28;Braves;3;Phillies;10
+July;28;Rays;1;Yankees;6
+July;28;Angels;7;Blue Jays;2
+July;28;Reds;4;Marlins;7
+July;28;Astros;6;Tigers;5
+July;28;Royals;4;Red Sox;2
+July;28;Orioles;2;Rangers;8
+July;28;Cubs;1;Brewers;2
+July;28;Indians;9;White Sox;3
+July;28;D-backs;0;Cardinals;1
+July;28;Twins;6;Athletics;3
+July;28;Mets;7;Mariners;5
+July;28;Pirates;2;Padres;3
+July;28;Giants;4;Dodgers;6
+July;29;Rays;4;Yankees;5
+July;29;Angels;6;Blue Jays;5
+July;29;Giants;1;Dodgers;2
+July;29;Mets;2;Mariners;3
+July;29;Astros;3;Tigers;5
+July;29;Braves;3;Phillies;4
+July;29;Rockies;4;Nationals;2
+July;29;Cubs;2;Brewers;1
+July;29;Reds;3;Marlins;7
+July;29;Indians;5;White Sox;4
+July;29;Royals;8;Red Sox;9
+July;29;D-backs;7;Cardinals;1
+July;29;Orioles;4;Rangers;0
+July;29;Pirates;2;Padres;4
+July;29;Twins;4;Athletics;5
+July;30;Rays;5;Yankees;3
+July;30;Angels;10;Blue Jays;11
+July;30;Reds;6;Marlins;4
+July;30;Astros;1;Tigers;13
+July;30;Braves;1;Phillies;2
+July;30;Rockies;10;Nationals;6
+July;30;Rockies;1;Nationals;3
+July;30;Royals;5;Red Sox;3
+July;30;Cubs;4;Brewers;2
+July;30;Indians;1;White Sox;3
+July;30;D-backs;2;Cardinals;3
+July;30;Orioles;10;Rangers;6
+July;30;Twins;5;Athletics;6
+July;30;Mets;1;Mariners;9
+July;30;Pirates;7;Padres;1
+July;30;Giants;2;Dodgers;3
+July;31;Braves;6;Phillies;7
+July;31;Tigers;3;Yankees;7
+July;31;Royals;1;Orioles;2
+July;31;Indians;2;Red Sox;6
+July;31;Nationals;1;Marlins;0
+July;31;Mariners;6;Rangers;4
+July;31;Rays;7;Astros;14
+July;31;Blue Jays;6;White Sox;7
+July;31;Giants;5;Athletics;8
+August;1;Reds;9;Pirates;1
+August;1;Tigers;4;Yankees;3
+August;1;Royals;2;Orioles;7
+August;1;Indians;10;Red Sox;12
+August;1;Nationals;6;Marlins;7
+August;1;Dodgers;3;Braves;2
+August;1;Cardinals;2;Brewers;3
+August;1;D-backs;4;Cubs;16
+August;1;Mariners;8;Rangers;7
+August;1;Rays;6;Astros;4
+August;1;Blue Jays;8;White Sox;4
+August;1;Mets;4;Rockies;5
+August;1;Giants;10;Athletics;4
+August;1;Phillies;1;Angels;7
+August;1;Twins;0;Padres;3
+August;2;Tigers;2;Yankees;0
+August;2;Blue Jays;5;White Sox;1
+August;2;Twins;5;Padres;2
+August;2;Reds;5;Pirates;2
+August;2;Royals;0;Orioles;6
+August;2;Nationals;0;Marlins;7
+August;2;Dodgers;3;Braves;5
+August;2;D-backs;3;Cubs;0
+August;2;Mariners;1;Rangers;5
+August;2;Cardinals;5;Brewers;4
+August;2;Rays;3;Astros;0
+August;2;Mets;10;Rockies;5
+August;2;Phillies;0;Angels;7
+August;2;Athletics;6;Giants;1
+August;3;Cardinals;1;Brewers;2
+August;3;D-backs;10;Cubs;8
+August;3;Mets;4;Rockies;5
+August;3;Reds;0;Pirates;6
+August;3;Tigers;7;Orioles;5
+August;3;White Sox;5;Red Sox;9
+August;3;Yankees;1;Indians;5
+August;3;Dodgers;7;Braves;4
+August;3;Rays;5;Astros;3
+August;3;Rangers;4;Twins;1
+August;3;Mariners;4;Royals;6
+August;3;Phillies;4;Angels;5
+August;3;Athletics;2;Giants;11
+August;4;Nationals;4;Cubs;2
+August;4;Cardinals;2;Reds;3
+August;4;Tigers;5;Orioles;2
+August;4;Padres;6;Pirates;10
+August;4;White Sox;2;Red Sox;3
+August;4;Dodgers;6;Mets;0
+August;4;Brewers;2;Rays;0
+August;4;Yankees;2;Indians;7
+August;4;Marlins;3;Braves;5
+August;4;Rangers;4;Twins;8
+August;4;Blue Jays;7;Astros;16
+August;4;Mariners;5;Royals;2
+August;4;Phillies;3;Rockies;4
+August;4;Athletics;6;Angels;8
+August;4;D-backs;2;Giants;1
+August;5;Nationals;4;Cubs;7
+August;5;Dodgers;7;Mets;4
+August;5;Brewers;3;Rays;0
+August;5;Tigers;2;Orioles;5
+August;5;Padres;5;Pirates;2
+August;5;White Sox;1;Red Sox;4
+August;5;Marlins;2;Braves;7
+August;5;Yankees;2;Indians;1
+August;5;Cardinals;4;Reds;1
+August;5;Rangers;4;Twins;1
+August;5;Blue Jays;4;Astros;3
+August;5;Phillies;5;Rockies;8
+August;5;D-backs;4;Giants;5
+August;5;Athletics;5;Angels;0
+August;6;Brewers;1;Rays;2
+August;6;Yankees;8;Indians;1
+August;6;Cardinals;13;Reds;4
+August;6;White Sox;3;Red Sox;6
+August;6;Tigers;3;Orioles;12
+August;6;Marlins;4;Braves;1
+August;6;Padres;4;Pirates;5
+August;6;Rangers;5;Twins;6
+August;6;Blue Jays;6;Astros;7
+August;6;Mariners;8;Royals;7
+August;6;Mariners;1;Royals;9
+August;6;Nationals;9;Cubs;4
+August;6;Phillies;3;Rockies;2
+August;6;Athletics;11;Angels;10
+August;6;D-backs;3;Giants;6
+August;6;Dodgers;8;Mets;0
+August;7;Tigers;0;Pirates;3
+August;7;Marlins;2;Nationals;3
+August;7;Padres;3;Reds;11
+August;7;Brewers;4;Twins;5
+August;7;Cardinals;11;Royals;3
+August;7;Orioles;6;Angels;2
+August;7;Cubs;5;Giants;3
+August;8;Tigers;3;Pirates;6
+August;8;Marlins;7;Nationals;3
+August;8;Yankees;2;Blue Jays;4
+August;8;Red Sox;2;Rays;0
+August;8;Rockies;1;Indians;4
+August;8;Padres;7;Reds;3
+August;8;Rangers;4;Mets;5
+August;8;Phillies;5;Braves;2
+August;8;Astros;5;White Sox;8
+August;8;Brewers;4;Twins;11
+August;8;Cardinals;10;Royals;3
+August;8;Dodgers;3;D-backs;6
+August;8;Mariners;7;Athletics;6
+August;8;Orioles;2;Angels;3
+August;8;Cubs;3;Giants;6
+August;9;Rockies;3;Indians;2
+August;9;Rangers;5;Mets;1
+August;9;Mariners;6;Athletics;3
+August;9;Orioles;1;Angels;5
+August;9;Cubs;1;Giants;3
+August;9;Marlins;1;Nationals;10
+August;9;Yankees;11;Blue Jays;5
+August;9;Red Sox;8;Rays;2
+August;9;Pirates;0;Tigers;10
+August;9;Padres;3;Reds;8
+August;9;Phillies;3;Braves;2
+August;9;Astros;1;White Sox;7
+August;9;Twins;4;Brewers;0
+August;9;Royals;5;Cardinals;8
+August;9;Dodgers;3;D-backs;2
+August;10;Padres;3;Reds;10
+August;10;Pirates;7;Tigers;5
+August;10;Marlins;2;Nationals;3
+August;10;Mets;10;Phillies;0
+August;10;Yankees;0;Blue Jays;4
+August;10;Indians;1;Rays;4
+August;10;Royals;6;Cardinals;8
+August;10;Astros;2;White Sox;3
+August;10;Twins;7;Brewers;2
+August;10;Dodgers;8;D-backs;6
+August;10;Orioles;7;Athletics;2
+August;10;Angels;6;Mariners;3
+August;11;Red Sox;4;Yankees;5
+August;11;Mets;7;Phillies;6
+August;11;Pirates;4;Blue Jays;2
+August;11;Indians;5;Rays;0
+August;11;Rockies;3;Marlins;6
+August;11;Twins;9;Tigers;4
+August;11;Astros;4;Rangers;6
+August;11;Reds;11;Brewers;10
+August;11;Royals;3;White Sox;6
+August;11;Braves;5;Cardinals;8
+August;11;Cubs;8;D-backs;3
+August;11;Orioles;4;Athletics;5
+August;11;Angels;6;Mariners;5
+August;11;Padres;4;Dodgers;3
+August;12;Pirates;2;Blue Jays;7
+August;12;Red Sox;10;Yankees;5
+August;12;Indians;3;Rays;0
+August;12;Twins;11;Tigers;12
+August;12;Mets;1;Phillies;3
+August;12;Giants;1;Nationals;3
+August;12;Reds;5;Brewers;6
+August;12;Rockies;3;Marlins;4
+August;12;Royals;5;White Sox;4
+August;12;Braves;5;Cardinals;6
+August;12;Astros;3;Rangers;8
+August;12;Cubs;2;D-backs;6
+August;12;Orioles;12;Athletics;5
+August;12;Angels;6;Mariners;3
+August;12;Padres;3;Dodgers;6
+August;13;Giants;4;Nationals;2
+August;13;Giants;2;Nationals;6
+August;13;Pirates;1;Blue Jays;7
+August;13;Indians;4;Rays;3
+August;13;Rockies;3;Marlins;5
+August;13;Twins;6;Tigers;4
+August;13;Mets;6;Phillies;2
+August;13;Reds;4;Brewers;7
+August;13;Royals;14;White Sox;6
+August;13;Braves;6;Cardinals;3
+August;13;Astros;2;Rangers;1
+August;13;Orioles;3;Athletics;9
+August;13;Cubs;7;D-backs;2
+August;13;Angels;4;Mariners;2
+August;13;Padres;4;Dodgers;6
+August;13;Red Sox;3;Yankees;2
+August;14;Indians;7;Red Sox;3
+August;14;Mets;2;Yankees;4
+August;14;Rays;1;Blue Jays;2
+August;14;Giants;3;Marlins;8
+August;14;Reds;5;Cubs;15
+August;14;Tigers;2;Rangers;6
+August;14;Braves;0;Rockies;3
+August;14;Astros;0;D-backs;2
+August;14;Royals;6;Athletics;2
+August;14;Orioles;11;Mariners;3
+August;14;Phillies;4;Padres;7
+August;15;Astros;9;D-backs;4
+August;15;Angels;1;Nationals;3
+August;15;Mets;4;Yankees;5
+August;15;Rays;6;Blue Jays;4
+August;15;Giants;9;Marlins;4
+August;15;Cardinals;4;Red Sox;10
+August;15;Pirates;1;Brewers;3
+August;15;Reds;2;Cubs;1
+August;15;Tigers;4;Rangers;10
+August;15;Indians;8;Twins;1
+August;15;Braves;4;Rockies;3
+August;15;Royals;8;Athletics;10
+August;15;Orioles;1;Mariners;3
+August;15;White Sox;1;Dodgers;6
+August;15;Phillies;4;Padres;8
+August;16;Angels;3;Nationals;2
+August;16;Giants;1;Marlins;8
+August;16;Pirates;6;Brewers;7
+August;16;Royals;7;Athletics;6
+August;16;Orioles;6;Mariners;7
+August;16;Phillies;0;Padres;3
+August;16;Rays;2;Blue Jays;3
+August;16;Yankees;5;Mets;3
+August;16;Cardinals;4;Red Sox;5
+August;16;Reds;6;Cubs;7
+August;16;Tigers;6;Rangers;12
+August;16;D-backs;5;Astros;9
+August;16;Braves;2;Rockies;17
+August;16;White Sox;4;Dodgers;5
+August;17;Indians;9;Twins;3
+August;17;Indians;2;Twins;4
+August;17;D-backs;4;Astros;0
+August;17;Reds;13;Cubs;10
+August;17;Braves;10;Rockies;4
+August;17;Rays;3;Blue Jays;5
+August;17;Cardinals;11;Pirates;7
+August;17;Yankees;7;Mets;5
+August;17;White Sox;8;Rangers;9
+August;17;Nationals;2;Padres;1
+August;17;Phillies;4;Giants;5
+August;18;Blue Jays;4;Cubs;7
+August;18;Angels;7;Orioles;9
+August;18;Cardinals;11;Pirates;10
+August;18;Dodgers;8;Tigers;5
+August;18;Marlins;3;Mets;1
+August;18;Yankees;6;Red Sox;9
+August;18;Mariners;7;Rays;1
+August;18;Reds;5;Braves;3
+August;18;White Sox;4;Rangers;3
+August;18;D-backs;3;Twins;10
+August;18;Athletics;1;Astros;3
+August;18;Indians;10;Royals;1
+August;18;Brewers;4;Rockies;8
+August;18;Nationals;7;Padres;1
+August;18;Phillies;2;Giants;10
+August;19;Blue Jays;3;Cubs;4
+August;19;Dodgers;3;Tigers;0
+August;19;Cardinals;4;Pirates;6
+August;19;Mariners;7;Rays;6
+August;19;Angels;5;Orioles;1
+August;19;D-backs;0;Twins;5
+August;19;Reds;11;Braves;8
+August;19;Marlins;1;Mets;8
+August;19;Yankees;4;Red Sox;3
+August;19;Athletics;0;Astros;3
+August;19;Indians;5;Royals;0
+August;19;White Sox;7;Rangers;17
+August;19;Brewers;6;Rockies;3
+August;19;Nationals;1;Padres;3
+August;19;Phillies;12;Giants;9
+August;20;Dodgers;1;Tigers;6
+August;20;Marlins;6;Mets;4
+August;20;Mariners;0;Rays;3
+August;20;Yankees;1;Red Sox;5
+August;20;Reds;1;Braves;8
+August;20;Angels;5;Orioles;4
+August;20;D-backs;5;Twins;12
+August;20;Athletics;3;Astros;2
+August;20;Indians;4;Royals;7
+August;20;Blue Jays;5;Cubs;6
+August;20;White Sox;3;Rangers;2
+August;20;Brewers;8;Rockies;4
+August;20;Phillies;5;Giants;2
+August;20;Nationals;4;Padres;1
+August;20;Cardinals;3;Pirates;6
+August;21;Twins;6;White Sox;7
+August;21;Twins;10;White Sox;2
+August;21;Dodgers;6;Pirates;5
+August;21;Athletics;3;Orioles;7
+August;21;D-backs;3;Mets;2
+August;21;Red Sox;4;Indians;5
+August;21;Mariners;6;Braves;5
+August;21;Rangers;5;Angels;3
+August;21;Brewers;0;Giants;2
+August;22;Marlins;12;Phillies;8
+August;22;Marlins;7;Phillies;4
+August;22;Dodgers;8;Pirates;5
+August;22;Athletics;6;Orioles;4
+August;22;D-backs;7;Mets;4
+August;22;Red Sox;9;Indians;1
+August;22;Cubs;13;Reds;9
+August;22;Yankees;13;Tigers;4
+August;22;Blue Jays;5;Rays;6
+August;22;Mariners;0;Braves;4
+August;22;Twins;4;White Sox;1
+August;22;Nationals;4;Astros;3
+August;22;Rockies;2;Royals;3
+August;22;Padres;12;Cardinals;4
+August;22;Rangers;1;Angels;10
+August;22;Brewers;4;Giants;3
+August;23;Athletics;7;Orioles;8
+August;23;Brewers;2;Giants;4
+August;23;Dodgers;0;Pirates;1
+August;23;Marlins;0;Phillies;8
+August;23;D-backs;2;Mets;4
+August;23;Red Sox;6;Indians;1
+August;23;Cubs;9;Reds;3
+August;23;Yankees;10;Tigers;2
+August;23;Blue Jays;7;Rays;6
+August;23;Mariners;9;Braves;6
+August;23;Twins;3;White Sox;4
+August;23;Nationals;1;Astros;6
+August;23;Rockies;4;Royals;6
+August;23;Padres;2;Cardinals;6
+August;23;Rangers;7;Angels;5
+August;24;D-backs;3;Mets;2
+August;24;Marlins;9;Phillies;8
+August;24;Yankees;6;Tigers;10
+August;24;Blue Jays;0;Rays;2
+August;24;Rockies;3;Royals;2
+August;24;Dodgers;5;Pirates;2
+August;24;Red Sox;6;Indians;13
+August;24;Cubs;2;Reds;4
+August;24;Padres;4;Cardinals;3
+August;24;Twins;1;White Sox;5
+August;24;Nationals;5;Astros;4
+August;24;Rangers;3;Angels;0
+August;25;Cubs;1;Phillies;7
+August;25;Mets;4;Nationals;2
+August;25;Mariners;2;Yankees;1
+August;25;Twins;6;Blue Jays;1
+August;25;Orioles;16;Red Sox;3
+August;25;Royals;0;Indians;4
+August;25;Pirates;5;Reds;9
+August;25;Padres;6;Marlins;8
+August;25;Rockies;2;Braves;5
+August;25;Tigers;2;White Sox;3
+August;25;Rays;7;Cardinals;3
+August;25;Giants;3;D-backs;4
+August;25;Rangers;1;Athletics;3
+August;25;Astros;2;Angels;1
+August;25;Brewers;1;Dodgers;3
+August;26;Mariners;3;Yankees;6
+August;26;Twins;9;Blue Jays;10
+August;26;Orioles;7;Red Sox;0
+August;26;Mets;4;Nationals;9
+August;26;Rangers;3;Athletics;8
+August;26;Pirates;1;Reds;0
+August;26;Cubs;17;Phillies;2
+August;26;Rockies;7;Braves;6
+August;26;Tigers;6;White Sox;3
+August;26;Padres;1;Marlins;2
+August;26;Royals;0;Indians;4
+August;26;Rays;4;Cardinals;6
+August;26;Giants;1;D-backs;2
+August;26;Astros;6;Angels;7
+August;26;Brewers;3;Dodgers;0
+August;27;Mariners;1;Yankees;10
+August;27;Twins;7;Blue Jays;2
+August;27;Royals;0;Indians;12
+August;27;Pirates;5;Reds;2
+August;27;Padres;2;Marlins;6
+August;27;Orioles;2;Red Sox;1
+August;27;Cubs;3;Phillies;6
+August;27;Rockies;3;Braves;0
+August;27;Mets;6;Nationals;5
+August;27;Mets;4;Nationals;5
+August;27;Tigers;1;White Sox;7
+August;27;Rays;3;Cardinals;2
+August;27;Astros;7;Angels;5
+August;27;Rangers;3;Athletics;8
+August;27;Brewers;3;Dodgers;2
+August;27;Giants;0;D-backs;11
+August;28;Braves;1;Phillies;6
+August;28;Indians;6;Yankees;2
+August;28;Marlins;2;Nationals;11
+August;28;Mariners;6;Orioles;7
+August;28;Red Sox;6;Blue Jays;5
+August;28;Pirates;1;Cubs;6
+August;28;Rays;12;Royals;0
+August;28;Tigers;4;Rockies;3
+August;28;Athletics;1;Angels;3
+August;28;Giants;3;Padres;0
+August;29;Marlins;3;Nationals;8
+August;29;Mariners;0;Orioles;4
+August;29;Red Sox;3;Blue Jays;0
+August;29;Mets;4;Reds;14
+August;29;Rangers;12;Astros;2
+August;29;Cardinals;10;Brewers;2
+August;29;Pirates;1;Cubs;4
+August;29;White Sox;4;Twins;6
+August;29;Rays;2;Royals;6
+August;29;Tigers;3;Rockies;7
+August;29;Dodgers;6;D-backs;7
+August;29;Athletics;2;Angels;8
+August;29;Giants;3;Padres;6
+August;30;Braves;9;Phillies;1
+August;30;Braves;5;Phillies;2
+August;30;Indians;2;Yankees;1
+August;30;Indians;9;Yankees;4
+August;30;Cardinals;5;Brewers;6
+August;30;Mariners;7;Orioles;8
+August;30;Tigers;6;Rockies;2
+August;30;Marlins;0;Nationals;4
+August;30;Red Sox;7;Blue Jays;1
+August;30;Mets;2;Reds;0
+August;30;Rangers;8;Astros;1
+August;30;Pirates;3;Cubs;17
+August;30;White Sox;1;Twins;11
+August;30;Rays;5;Royals;3
+August;30;Giants;0;Padres;5
+August;30;Dodgers;4;D-backs;6
+August;30;Athletics;8;Angels;10
+August;31;Mets;2;Reds;7
+August;31;White Sox;4;Twins;5
+August;31;Rangers;1;Astros;5
+August;31;Dodgers;1;D-backs;8
+August;31;Red Sox;2;Yankees;6
+August;31;Blue Jays;11;Orioles;8
+August;31;Phillies;3;Marlins;2
+August;31;Braves;2;Cubs;6
+August;31;Nationals;3;Brewers;6
+August;31;Cardinals;5;Giants;2
+September;1;Indians;3;Tigers;2
+September;1;Indians;10;Tigers;0
+September;1;Braves;0;Cubs;2
+September;1;Red Sox;4;Yankees;1
+September;1;Reds;7;Pirates;3
+September;1;Blue Jays;0;Orioles;1
+September;1;Phillies;2;Marlins;1
+September;1;Angels;9;Rangers;10
+September;1;Royals;7;Twins;6
+September;1;Rays;3;White Sox;1
+September;1;Nationals;0;Brewers;1
+September;1;D-backs;9;Rockies;5
+September;1;Dodgers;1;Padres;0
+September;1;Athletics;2;Mariners;3
+September;1;Cardinals;11;Giants;6
+September;2;Red Sox;1;Yankees;5
+September;2;Mets;8;Astros;12
+September;2;Mets;1;Astros;4
+September;2;Braves;12;Cubs;14
+September;2;Dodgers;5;Padres;6
+September;2;Dodgers;2;Padres;7
+September;2;Cardinals;1;Giants;2
+September;2;Indians;5;Tigers;2
+September;2;Reds;0;Pirates;5
+September;2;Blue Jays;7;Orioles;2
+September;2;Royals;0;Twins;17
+September;2;Phillies;9;Marlins;10
+September;2;Rays;4;White Sox;5
+September;2;Nationals;3;Brewers;2
+September;2;Angels;7;Rangers;4
+September;2;D-backs;6;Rockies;2
+September;2;Athletics;6;Mariners;7
+September;3;Indians;11;Tigers;1
+September;3;Phillies;3;Marlins;1
+September;3;Reds;1;Pirates;3
+September;3;Blue Jays;4;Orioles;5
+September;3;Royals;5;Twins;4
+September;3;Mets;6;Astros;8
+September;3;Rays;2;White Sox;6
+September;3;Nationals;2;Brewers;7
+September;3;Braves;5;Cubs;1
+September;3;Angels;6;Rangers;7
+September;3;D-backs;5;Rockies;1
+September;3;Cardinals;7;Giants;3
+September;3;Athletics;2;Mariners;10
+September;3;Dodgers;4;Padres;6
+September;3;Red Sox;2;Yankees;9
+September;4;Royals;7;Tigers;6
+September;4;Brewers;4;Reds;5
+September;4;Phillies;7;Mets;11
+September;4;Yankees;7;Orioles;4
+September;4;Indians;5;White Sox;3
+September;4;Giants;3;Rockies;4
+September;4;Cubs;0;Pirates;12
+September;4;Angels;11;Athletics;9
+September;4;Cardinals;2;Padres;0
+September;4;Astros;6;Mariners;2
+September;4;Twins;4;Rays;11
+September;4;Blue Jays;10;Red Sox;4
+September;4;Nationals;7;Marlins;2
+September;4;Rangers;8;Braves;2
+September;4;D-backs;13;Dodgers;0
+September;5;Cubs;3;Pirates;4
+September;5;Yankees;6;Orioles;7
+September;5;Royals;2;Tigers;13
+September;5;Brewers;3;Reds;9
+September;5;Twins;1;Rays;2
+September;5;Phillies;9;Mets;1
+September;5;Blue Jays;2;Red Sox;3
+September;5;Nationals;2;Marlins;1
+September;5;Indians;9;White Sox;4
+September;5;Giants;6;Rockies;9
+September;5;Angels;8;Athletics;7
+September;5;D-backs;3;Dodgers;1
+September;5;Astros;3;Mariners;1
+September;5;Cardinals;8;Padres;4
+September;6;Brewers;1;Reds;7
+September;6;Twins;10;Rays;6
+September;6;Rangers;12;Braves;8
+September;6;Rangers;4;Braves;5
+September;6;Angels;1;Athletics;3
+September;6;Cubs;1;Pirates;0
+September;6;Royals;13;Tigers;2
+September;6;Phillies;3;Mets;6
+September;6;Blue Jays;1;Red Sox;6
+September;6;Nationals;8;Marlins;1
+September;6;Indians;5;White Sox;1
+September;6;Giants;11;Rockies;3
+September;6;D-backs;3;Dodgers;1
+September;6;Astros;5;Mariners;3
+September;6;Cardinals;3;Padres;1
+September;7;Yankees;9;Orioles;1
+September;7;Cubs;8;Pirates;2
+September;7;Phillies;3;Nationals;4
+September;7;Reds;2;Mets;7
+September;7;Marlins;5;Braves;6
+September;7;Indians;11;White Sox;2
+September;7;Twins;4;Royals;2
+September;7;Cardinals;0;Padres;3
+September;7;Rockies;9;Dodgers;1
+September;8;Phillies;10;Nationals;11
+September;8;Tigers;5;Blue Jays;4
+September;8;Orioles;0;Indians;5
+September;8;Reds;1;Mets;5
+September;8;Rays;3;Red Sox;9
+September;8;Marlins;7;Braves;1
+September;8;Brewers;2;Cubs;0
+September;8;Yankees;5;Rangers;11
+September;8;Giants;9;White Sox;2
+September;8;Twins;8;Royals;5
+September;8;Pirates;1;Cardinals;4
+September;8;Padres;10;D-backs;6
+September;8;Astros;8;Athletics;9
+September;8;Rockies;5;Dodgers;4
+September;8;Angels;3;Mariners;4
+September;9;Orioles;2;Indians;4
+September;9;Yankees;3;Rangers;1
+September;9;Astros;1;Athletics;11
+September;9;Astros;4;Athletics;11
+September;9;Brewers;15;Cubs;2
+September;9;Tigers;4;Blue Jays;5
+September;9;Phillies;5;Nationals;4
+September;9;Reds;1;Mets;6
+September;9;Marlins;5;Braves;6
+September;9;Giants;1;White Sox;13
+September;9;Rays;0;Red Sox;9
+September;9;Twins;2;Royals;5
+September;9;Pirates;3;Cardinals;4
+September;9;Padres;8;D-backs;7
+September;9;Rockies;6;Dodgers;5
+September;9;Angels;1;Mariners;8
+September;10;Tigers;2;Blue Jays;8
+September;10;Reds;10;Mets;5
+September;10;Marlins;8;Braves;10
+September;10;Phillies;2;Nationals;3
+September;10;Rays;4;Red Sox;1
+September;10;Giants;1;White Sox;8
+September;10;Twins;3;Royals;11
+September;10;Pirates;0;Cardinals;7
+September;10;Brewers;3;Cubs;1
+September;10;Yankees;16;Rangers;7
+September;10;Astros;2;Athletics;10
+September;10;Rockies;8;Dodgers;1
+September;10;Angels;5;Mariners;3
+September;10;Padres;2;D-backs;3
+September;10;Orioles;2;Indians;3
+September;11;Orioles;3;Blue Jays;4
+September;11;Tigers;0;Indians;11
+September;11;Yankees;5;Rays;1
+September;11;Pirates;7;Brewers;0
+September;11;Mariners;3;Rangers;5
+September;11;White Sox;11;Royals;3
+September;11;Rockies;5;D-backs;4
+September;11;Dodgers;6;Giants;8
+September;12;White Sox;3;Royals;4
+September;12;Braves;8;Nationals;0
+September;12;Marlins;8;Phillies;9
+September;12;Orioles;2;Blue Jays;3
+September;12;Tigers;0;Indians;2
+September;12;Yankees;1;Rays;2
+September;12;Athletics;1;Red Sox;11
+September;12;Pirates;2;Brewers;5
+September;12;Mets;3;Cubs;8
+September;12;Mariners;10;Rangers;3
+September;12;Padres;0;Twins;16
+September;12;Reds;4;Cardinals;13
+September;12;Rockies;4;D-backs;2
+September;12;Astros;1;Angels;0
+September;12;Dodgers;5;Giants;3
+September;13;Tigers;3;Indians;5
+September;13;Yankees;3;Rays;2
+September;13;White Sox;5;Royals;3
+September;13;Braves;8;Nationals;2
+September;13;Marlins;1;Phillies;8
+September;13;Orioles;2;Blue Jays;1
+September;13;Athletics;7;Red Sox;3
+September;13;Mets;5;Cubs;17
+September;13;Mariners;8;Rangers;1
+September;13;Pirates;2;Brewers;8
+September;13;Padres;1;Twins;3
+September;13;Reds;6;Cardinals;0
+September;13;Rockies;2;D-backs;8
+September;13;Astros;1;Angels;9
+September;13;Dodgers;4;Giants;1
+September;14;White Sox;17;Tigers;7
+September;14;Athletics;2;Red Sox;6
+September;14;Reds;2;Cardinals;5
+September;14;Rockies;0;D-backs;7
+September;14;Braves;2;Nationals;5
+September;14;Orioles;5;Yankees;13
+September;14;Marlins;0;Phillies;10
+September;14;Royals;2;Indians;3
+September;14;Mets;6;Cubs;14
+September;14;Mariners;10;Rangers;4
+September;14;Blue Jays;2;Twins;3
+September;14;Astros;5;Angels;2
+September;15;Cardinals;2;Cubs;8
+September;15;Orioles;2;Yankees;8
+September;15;Dodgers;7;Nationals;0
+September;15;Athletics;4;Phillies;0
+September;15;Red Sox;13;Rays;6
+September;15;White Sox;2;Tigers;3
+September;15;Royals;4;Indians;3
+September;15;Pirates;2;Reds;4
+September;15;Mets;2;Braves;3
+September;15;Brewers;10;Marlins;2
+September;15;Mariners;2;Astros;5
+September;15;Blue Jays;4;Twins;3
+September;15;Padres;1;Rockies;6
+September;15;Rangers;6;Angels;7
+September;15;D-backs;3;Giants;2
+September;16;Dodgers;3;Nationals;2
+September;16;Mariners;6;Astros;8
+September;16;Orioles;3;Yankees;9
+September;16;Cardinals;1;Cubs;4
+September;16;Royals;4;Indians;8
+September;16;Pirates;1;Reds;2
+September;16;Red Sox;3;Rays;1
+September;16;White Sox;10;Tigers;4
+September;16;Athletics;3;Phillies;5
+September;16;Brewers;4;Marlins;7
+September;16;Mets;7;Braves;3
+September;16;Blue Jays;7;Twins;2
+September;16;Padres;0;Rockies;16
+September;16;D-backs;2;Giants;0
+September;16;Rangers;0;Angels;2
+September;17;Orioles;6;Yankees;4
+September;17;Red Sox;2;Rays;3
+September;17;White Sox;0;Tigers;12
+September;17;Royals;2;Indians;3
+September;17;Pirates;2;Reds;5
+September;17;Mets;5;Braves;1
+September;17;Athletics;6;Phillies;3
+September;17;Brewers;10;Marlins;3
+September;17;Mariners;1;Astros;7
+September;17;Blue Jays;7;Twins;13
+September;17;Cardinals;3;Cubs;4
+September;17;Padres;4;Rockies;3
+September;17;Rangers;4;Angels;2
+September;17;D-backs;2;Giants;7
+September;17;Dodgers;1;Nationals;7
+September;18;Red Sox;10;Orioles;8
+September;18;Dodgers;3;Phillies;4
+September;18;Brewers;3;Pirates;0
+September;18;Twins;1;Yankees;2
+September;18;Mets;1;Marlins;13
+September;18;Athletics;8;Tigers;3
+September;18;D-backs;2;Padres;4
+September;19;Red Sox;1;Orioles;0
+September;19;Dodgers;2;Phillies;6
+September;19;Brewers;1;Pirates;0
+September;19;Twins;2;Yankees;5
+September;19;Royals;2;Blue Jays;5
+September;19;Cubs;2;Rays;1
+September;19;Mets;4;Marlins;5
+September;19;Athletics;9;Tigers;8
+September;19;Cardinals;8;Reds;7
+September;19;Nationals;4;Braves;2
+September;19;White Sox;1;Astros;3
+September;19;Indians;6;Angels;3
+September;19;D-backs;2;Padres;6
+September;19;Rangers;3;Mariners;1
+September;19;Rockies;3;Giants;4
+September;20;Twins;3;Yankees;11
+September;20;Mets;2;Marlins;9
+September;20;Athletics;3;Tigers;2
+September;20;Rockies;0;Giants;4
+September;20;Red Sox;9;Orioles;0
+September;20;Dodgers;5;Phillies;7
+September;20;Brewers;4;Pirates;6
+September;20;Royals;15;Blue Jays;5
+September;20;Cubs;1;Rays;8
+September;20;Cardinals;9;Reds;2
+September;20;Nationals;7;Braves;3
+September;20;White Sox;3;Astros;4
+September;20;D-backs;13;Padres;7
+September;20;Indians;6;Angels;5
+September;20;Rangers;8;Mariners;6
+September;21;Dodgers;5;Phillies;4
+September;21;Indians;4;Angels;1
+September;21;Rays;1;Orioles;3
+September;21;Royals;1;Blue Jays;0
+September;21;Twins;12;Tigers;1
+September;21;Cardinals;8;Reds;5
+September;21;Nationals;2;Braves;3
+September;21;Cubs;5;Brewers;3
+September;21;White Sox;3;Astros;1
+September;21;Rockies;0;Padres;3
+September;21;Rangers;4;Mariners;2
+September;22;Cardinals;4;Pirates;3
+September;22;Rays;8;Orioles;3
+September;22;Yankees;1;Blue Jays;8
+September;22;Red Sox;5;Reds;4
+September;22;Twins;7;Tigers;3
+September;22;Nationals;6;Mets;7
+September;22;Cubs;5;Brewers;4
+September;22;Phillies;2;Braves;7
+September;22;Royals;6;White Sox;7
+September;22;Angels;0;Astros;3
+September;22;Marlins;11;D-backs;13
+September;22;Rangers;1;Athletics;4
+September;22;Indians;1;Mariners;3
+September;22;Rockies;4;Padres;1
+September;22;Giants;2;Dodgers;4
+September;23;Cubs;3;Brewers;4
+September;23;Angels;2;Astros;6
+September;23;Yankees;5;Blue Jays;1
+September;23;Red Sox;5;Reds;0
+September;23;Indians;11;Mariners;4
+September;23;Twins;10;Tigers;4
+September;23;Cardinals;6;Pirates;11
+September;23;Rays;9;Orioles;6
+September;23;Royals;8;White Sox;2
+September;23;Phillies;2;Braves;4
+September;23;Nationals;4;Mets;3
+September;23;Marlins;12;D-backs;6
+September;23;Rockies;0;Padres;5
+September;23;Rangers;0;Athletics;1
+September;23;Giants;2;Dodgers;1
+September;24;Twins;10;Tigers;4
+September;24;Yankees;5;Blue Jays;9
+September;24;Red Sox;5;Reds;4
+September;24;Nationals;3;Mets;2
+September;24;Phillies;2;Braves;0
+September;24;Cardinals;1;Pirates;4
+September;24;Rays;4;Orioles;9
+September;24;Cubs;5;Brewers;0
+September;24;Royals;1;White Sox;8
+September;24;Rangers;1;Athletics;8
+September;24;Indians;4;Mariners;2
+September;24;Marlins;2;D-backs;3
+September;24;Giants;1;Dodgers;3
+September;24;Rockies;8;Padres;4
+September;24;Angels;7;Astros;5
+September;25;Royals;3;Yankees;11
+September;25;Braves;9;Mets;2
+September;25;Braves;2;Mets;3
+September;25;Nationals;3;Phillies;1
+September;25;Blue Jays;6;Red Sox;4
+September;25;Astros;11;Rangers;2
+September;25;Angels;2;White Sox;4
+September;25;Cubs;10;Cardinals;2
+September;25;Marlins;5;Rockies;4
+September;25;Giants;9;D-backs;2
+September;25;Mariners;7;Athletics;1
+September;25;Padres;3;Dodgers;9
+September;26;Orioles;1;Pirates;10
+September;26;Rays;1;Yankees;6
+September;26;Nationals;1;Phillies;4
+September;26;Braves;3;Mets;4
+September;26;Twins;8;Indians;6
+September;26;Blue Jays;9;Red Sox;4
+September;26;Reds;6;Brewers;7
+September;26;Astros;14;Rangers;3
+September;26;Angels;9;White Sox;3
+September;26;Cubs;7;Cardinals;8
+September;26;Tigers;1;Royals;2
+September;26;Marlins;0;Rockies;6
+September;26;Giants;4;D-backs;11
+September;26;Mariners;6;Athletics;3
+September;26;Padres;2;Dodgers;9
+September;27;Astros;12;Rangers;2
+September;27;Marlins;9;Rockies;15
+September;27;Mariners;5;Athletics;6
+September;27;Giants;3;D-backs;4
+September;27;Orioles;3;Pirates;5
+September;27;Rays;1;Yankees;6
+September;27;Nationals;5;Phillies;7
+September;27;Cubs;5;Cardinals;1
+September;27;Braves;1;Mets;7
+September;27;Twins;2;Indians;4
+September;27;Blue Jays;7;Red Sox;10
+September;27;Reds;6;Brewers;0
+September;27;Angels;4;White Sox;6
+September;27;Tigers;4;Royals;7
+September;27;Padres;0;Dodgers;10
+September;28;Twins;2;Indians;5
+September;28;Reds;3;Brewers;4
+September;28;Pirates;4;Nationals;5
+September;28;Rays;9;Yankees;6
+September;28;Braves;1;Marlins;7
+September;28;Astros;12;Red Sox;2
+September;28;Cubs;2;Cardinals;1
+September;28;Athletics;4;Rangers;1
+September;28;Angels;4;White Sox;5
+September;28;Tigers;4;Royals;1
+September;29;Blue Jays;0;Yankees;4
+September;29;Reds;4;Cubs;5
+September;29;Mets;2;Phillies;6
+September;29;Pirates;1;Nationals;6
+September;29;Braves;5;Marlins;6
+September;29;Orioles;0;Rays;7
+September;29;White Sox;1;Indians;10
+September;29;Astros;3;Red Sox;2
+September;29;Athletics;3;Rangers;5
+September;29;Tigers;3;Twins;6
+September;29;Dodgers;1;Rockies;9
+September;29;D-backs;1;Royals;2
+September;29;Brewers;5;Cardinals;3
+September;29;Mariners;5;Angels;6
+September;29;Padres;0;Giants;8
+September;30;Astros;3;Red Sox;6
+September;30;Blue Jays;1;Yankees;2
+September;30;Reds;0;Cubs;9
+September;30;Padres;3;Giants;2
+September;30;Brewers;6;Cardinals;7
+September;30;Orioles;3;Rays;4
+September;30;Mets;7;Phillies;4
+September;30;Pirates;4;Nationals;1
+September;30;Braves;2;Marlins;10
+September;30;White Sox;2;Indians;1
+September;30;Tigers;3;Twins;2
+September;30;D-backs;3;Royals;4
+September;30;Athletics;4;Rangers;8
+September;30;Dodgers;5;Rockies;3
+September;30;Mariners;6;Angels;4
+October;1;Astros;4;Red Sox;3
+October;1;Mets;0;Phillies;11
+October;1;Athletics;5;Rangers;2
+October;1;Pirates;11;Nationals;8
+October;1;Padres;4;Giants;5
+October;1;Blue Jays;2;Yankees;1
+October;1;Mariners;2;Angels;6
+October;1;Braves;8;Marlins;5
+October;1;Orioles;0;Rays;6
+October;1;White Sox;1;Indians;3
+October;1;Tigers;1;Twins;5
+October;1;Dodgers;6;Rockies;3
+October;1;D-backs;14;Royals;2
+October;1;Brewers;6;Cardinals;1
+October;1;Reds;3;Cubs;1
